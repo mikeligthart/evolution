@@ -1,4 +1,2 @@
 models/db-settings.php
 algorithm/backup/*
-algorithm/musicians/downloads/*
-algorithm/nonmusicians/downloads/*
