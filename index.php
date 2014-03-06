@@ -17,6 +17,7 @@ echo "
 echo "
 </div>
 <div id='main'>
+<br />
 <p><b>Join our musical journey by sharing your opinion, and hear the music evolve over generations!</b></p>
 
 <p>The world we are living in now is the product of evolution that lasted more than 2 billion years.
