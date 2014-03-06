@@ -30,16 +30,32 @@
 		<p>
 			Did you like the song?
 		</p>
-		<form name='ratingform' action='' method='post'> 
-			1:<input type="radio" name="rating" value="1" required>
-			2:<input type="radio" name="rating" value="2">
-			3:<input type="radio" name="rating" value="3">
-			4:<input type="radio" name="rating" value="4">
-			5:<input type="radio" name="rating" value="5">
-			6:<input type="radio" name="rating" value="6">
-			7:<input type="radio" name="rating" value="7">
-			<br>
-			<input type='submit' name='submit' value='Stem' />			
-		</form>
+<form name='ratingform' action='' method='post'> 
+<table> 
+<tr align='center'>
+<td>Not at all</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>Very much</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="radio" name="rating" value="1" required></td>
+<td><input type="radio" name="rating" value="2"></td>
+<td><input type="radio" name="rating" value="3"></td>
+<td><input type="radio" name="rating" value="4"></td>
+<td><input type="radio" name="rating" value="5"></td>
+<td><input type="radio" name="rating" value="6"></td>
+<td><input type="radio" name="rating" value="7"></td>
+<td></td>
+</tr>
+</table>
+<input type='submit' name='submit' value='Vote'/>
+</form>
 	</body>
 </html>
