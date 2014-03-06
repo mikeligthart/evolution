@@ -22,7 +22,7 @@ include("left-nav.php");
 echo "
 </div>
 <div id='main'>
-Hey, $loggedInUser->displayname. This is an example secure page designed to demonstrate some of the basic features of UserCake. Just so you know, your title at the moment is $loggedInUser->title, and that can be changed in the admin panel. You registered this account on " . date("M d, Y", $loggedInUser->signupTimeStamp()) . ".
+Hey, $loggedInUser->displayname. Click in the left menu on 'Rate Music!' to start. You have been a rater since " . date("M d, Y", $loggedInUser->signupTimeStamp()) . ".
 </div>";
 
 include_once("models/footer.php");
