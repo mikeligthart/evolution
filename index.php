@@ -17,7 +17,7 @@ echo "
 echo "
 </div>
 <div id='main'>
-<br />
+<br /><br />
 <p><b>Join our musical journey by sharing your opinion, and hear the music evolve over generations!</b></p>
 
 <p>The world we are living in now is the product of evolution that lasted more than 2 billion years.
@@ -28,7 +28,7 @@ Mutations ensure diversity and provide the possibility for new species to be gro
 <br />
 Survival of the fittest is of great importance. But how do we decide who the fittest individual are?<br /></p>
 
-<p>In this project, the population consist of audioloops.
+<p>In this project, that is based on the DarwinTunes project (http://darwintunes.org/), the population consist of audioloops.
 <br />
 These audioloops can recombine (mate) and have kids!
 <br />
