@@ -21,22 +21,29 @@ echo "
 
 <p>The world we are living in now is the product of evolution that lasted more than 2 billion years.
 <br />
-By natural selection and reproduction new generations arise, and mutations ensure diversity and provides the possibility for new species to be grow. Survival of the fittest is of great importance.
+By natural selection and reproduction new generations arise. 
 <br />
-How do we decide what the fittest individual is?</p>
-
-<p>In this project, the population consist of audioloops, than can mate and have kids!
+Mutations ensure diversity and provide the possibility for new species to be grow. 
 <br />
-Every generation, the best audioloops (parents) will recombine and produce new audioloops (kids). The kids will then contain a combination of genetic material from both parents.</p>
+Survival of the fittest is of great importance. But how do we decide who the fittest individual are?<br /></p>
 
-<p>We need your help in choosing which are the fittest individuals of our population, so that the best audioloops can reproduce and the next generation will evolve towards more likable music!</p>
+<p>In this project, the population consist of audioloops.
+<br />
+These audioloops can recombine (mate) and have kids!
+<br />
+Every generation, the best audioloops (parents) will recombine and produce new audioloops (kids).
+<br />
+These kids will contain a combination of genetic material from both parents and they will be part of the next generation.
+<br />
+</p>
 
+<p>We need your help in choosing who are the fittest individuals of our population, 
+<br>
+so that the best audioloops can reproduce and the next generation will evolve towards better sounding music!</p>
 <p>Please let us hear your opinion about the current generation!</p>
 
 <p>Thanks!
 <br />
-<br />
-<br /> 
 Mike & Janne</p>
 </div>";
 
