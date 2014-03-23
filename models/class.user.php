@@ -124,7 +124,24 @@ class loggedInUser {
 		$stmt->close();
 		return ($musician);	
 	}
-	
+
+	//get number of ratings
+	public function getNumberOfRatings()
+	{
+		global $mysqli,$db_table_prefix;
+		
+		$stmt = $mysqli->prepare("SELECT number_of_ratings
+
+			FROM ".$db_table_prefix."users
+			WHERE id = ?");
+		$stmt->bind_param("i", $this->user_id);
+		$stmt->execute();
+		$stmt->bind_result($numberOfRatings);
+		$stmt->fetch();
+		$stmt->close();
+		return ($numberOfRatings);	
+	}	
+
 	//Logout
 	public function userLogOut()
 	{

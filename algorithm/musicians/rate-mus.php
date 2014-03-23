@@ -11,6 +11,7 @@
 	
 	if(isset($_POST["submit"])){
 		writeScore($_SESSION['song'], $_POST['rating'], $loggedInUser->displayname);
+		incrementNumberOfRatings($loggedInUser->username);
 		echo "Thanks for your vote. You can hit play to listen to the next song.<br/>";
 	}
 	else{

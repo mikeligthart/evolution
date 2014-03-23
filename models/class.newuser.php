@@ -17,6 +17,7 @@ class User
 	private $playregular = 0;
 	private $musiclesson = 0;
 	private $musician = 0;
+	
 	public $sql_failure = false;
 	public $mail_failure = false;
 	public $email_taken = false;
@@ -146,7 +147,9 @@ class User
 					playinstrument,
 					playregular,
 					musiclessons,
-					musician
+					musician,
+					number_of_ratings,
+					last_reminder_send
 					)
 					VALUES (
 					?,
@@ -163,7 +166,9 @@ class User
 					?,
 					?,
 					?,
-					?
+					?,
+					'0',
+					'".time()."'
 					)");
 				
 				$stmt->bind_param("sssssiiiii", $this->username, $this->displayname, $secure_pass, $this->clean_email, $this->activation_token, $this->user_active, $this->playinstrument, $this->playregular, $this->musiclesson, $this->musician);

@@ -296,13 +296,15 @@ function fetchAllUsers()
 		playinstrument,
 		playregular,
 		musiclessons,
-		musician
+		musician,
+		number_of_ratings,
+		last_reminder_send
 		FROM ".$db_table_prefix."users");
 	$stmt->execute();
-	$stmt->bind_result($id, $user, $display, $password, $email, $token, $activationRequest, $passwordRequest, $active, $title, $signUp, $signIn, $playintrument, $playregular, $musiclessons, $musician);
+	$stmt->bind_result($id, $user, $display, $password, $email, $token, $activationRequest, $passwordRequest, $active, $title, $signUp, $signIn, $playintrument, $playregular, $musiclessons, $musician, $numberOfRatings, $lastReminderSend);
 	
 	while ($stmt->fetch()){
-		$row[] = array('id' => $id, 'user_name' => $user, 'display_name' => $display, 'password' => $password, 'email' => $email, 'activation_token' => $token, 'last_activation_request' => $activationRequest, 'lost_password_request' => $passwordRequest, 'active' => $active, 'title' => $title, 'sign_up_stamp' => $signUp, 'last_sign_in_stamp' => $signIn, 'playintrument' => $playinstrument, 'playregular' => $playregular, 'musiclessons' => $musiclessons, 'musician'=> $musician);
+		$row[] = array('id' => $id, 'user_name' => $user, 'display_name' => $display, 'password' => $password, 'email' => $email, 'activation_token' => $token, 'last_activation_request' => $activationRequest, 'lost_password_request' => $passwordRequest, 'active' => $active, 'title' => $title, 'sign_up_stamp' => $signUp, 'last_sign_in_stamp' => $signIn, 'playintrument' => $playinstrument, 'playregular' => $playregular, 'musiclessons' => $musiclessons, 'musician'=> $musician, 'number_of_ratings'=>$numberOfRatings, 'last_reminder_send'=>$lastReminderSend);
 	}
 	$stmt->close();
 	return ($row);
@@ -340,7 +342,9 @@ function fetchUserDetails($username=NULL,$token=NULL, $id=NULL)
 		playinstrument,
 		playregular,
 		musiclessons,
-		musician
+		musician,
+		number_of_ratings,
+		last_reminder_send
 		FROM ".$db_table_prefix."users
 		WHERE
 		$column = ?
@@ -348,9 +352,9 @@ function fetchUserDetails($username=NULL,$token=NULL, $id=NULL)
 		$stmt->bind_param("s", $data);
 	
 	$stmt->execute();
-	$stmt->bind_result($id, $user, $display, $password, $email, $token, $activationRequest, $passwordRequest, $active, $title, $signUp, $signIn, $playinstrument, $playregular, $musiclessons, $musician);
+	$stmt->bind_result($id, $user, $display, $password, $email, $token, $activationRequest, $passwordRequest, $active, $title, $signUp, $signIn, $playinstrument, $playregular, $musiclessons, $musician, $numberOfRatings, $lastReminderSend);
 	while ($stmt->fetch()){
-		$row = array('id' => $id, 'user_name' => $user, 'display_name' => $display, 'password' => $password, 'email' => $email, 'activation_token' => $token, 'last_activation_request' => $activationRequest, 'lost_password_request' => $passwordRequest, 'active' => $active, 'title' => $title, 'sign_up_stamp' => $signUp, 'last_sign_in_stamp' => $signIn, 'playinstrument' => $playinstrument, 'playregular' => $playregular, 'musiclessons' => $musiclessons, 'musician'=> $musician);
+		$row = array('id' => $id, 'user_name' => $user, 'display_name' => $display, 'password' => $password, 'email' => $email, 'activation_token' => $token, 'last_activation_request' => $activationRequest, 'lost_password_request' => $passwordRequest, 'active' => $active, 'title' => $title, 'sign_up_stamp' => $signUp, 'last_sign_in_stamp' => $signIn, 'playinstrument' => $playinstrument, 'playregular' => $playregular, 'musiclessons' => $musiclessons, 'musician'=> $musician, 'number_of_ratings'=>$numberOfRatings, 'last_reminder_send'=>$lastReminderSend);
 	}
 	$stmt->close();
 	return ($row);
@@ -367,6 +371,22 @@ function flagLostPasswordRequest($username,$value)
 		LIMIT 1
 		");
 	$stmt->bind_param("ss", $value, $username);
+	$result = $stmt->execute();
+	$stmt->close();
+	return $result;
+}
+
+//Increment the number of ratings by one
+function incrementNumberOfRatings($username)
+{
+	global $mysqli,$db_table_prefix;
+	$stmt = $mysqli->prepare("UPDATE ".$db_table_prefix."users
+		SET number_of_ratings = number_of_ratings + 1
+		WHERE
+		user_name = ?
+		LIMIT 1
+		");
+	$stmt->bind_param("s", $username);
 	$result = $stmt->execute();
 	$stmt->close();
 	return $result;

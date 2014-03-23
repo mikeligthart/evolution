@@ -11,13 +11,9 @@ function loadSong($pathToDir){
 	$returnSong =  $songs[0];
 	foreach ($songs as $song){
 		$totalLines = intval(exec("wc -l '".substr($song,0,strrpos($song,".")).".fitness'"));
-		if ($totalLines < $leastRatings){
-			echo "smaller.";			
+		if ($totalLines < $leastRatings){			
 			$leastRatings = $totalLines;
 			$returnSong = $song;
-		}
-		else {
-			echo "not smaller.";		
 		}
 	}
 

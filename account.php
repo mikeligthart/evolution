@@ -19,11 +19,21 @@ echo "
 
 include("left-nav.php");
 
-echo "
-</div>
-<div id='main'>
-Hey, $loggedInUser->displayname. Click in the left menu on 'Rate Music!' to start. You have been a rater since " . date("M d, Y", $loggedInUser->signupTimeStamp()) . ".
-</div>";
+$numberOfRatings = $loggedInUser->getNumberOfRatings();
+if ($numberOfRatings <= 1){
+	echo "
+	</div>
+	<div id='main'>
+	Hey, $loggedInUser->displayname. Click in the left menu on 'Rate Music!' to start.
+	</div>";
+}
+else{
+	echo "
+	</div>
+	<div id='main'>
+	Hey, $loggedInUser->displayname. Click in the left menu on 'Rate Music!' to continue. You have been a rater since " . date("M d, Y", $loggedInUser->signupTimeStamp())." and you have rated $numberOfRatings songs.
+	</div>";
+}
 
 include_once("models/footer.php");
 ?>
