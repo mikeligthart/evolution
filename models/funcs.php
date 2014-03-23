@@ -213,7 +213,6 @@ function remindUsers($users) {
 	foreach($users as $id){
 		//Load data of user with id		
 		$user = fetchUserDetails(NULL, NULL, $id);
-		echo "User: $id - display: ".$user['display_name']." - email: ".$user['email']." - signin:".date("j M, Y", $user['last_sign_in_stamp'])." - number of ratings: ".$user['number_of_ratings']." <br />";
 		//Setting up mail		
 		$mail = new userCakeMail();
 		$hooks = array(
