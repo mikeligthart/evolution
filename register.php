@@ -19,9 +19,9 @@ if(!empty($_POST))
 	$displayname = trim($_POST["displayname"]);
 	$password = trim($_POST["password"]);
 	$confirm_pass = trim($_POST["passwordc"]);
-	$playinstrument = $_POST['playinstrument'];
-	$playregular = $_POST['playregular'];
-	$musiclessons = $_POST['musiclessons'];
+	$playinstrument = $_POST["playinstrument"];
+	$playregular = $_POST["playregular"];
+	$musiclessons = $_POST["musiclessons"];
 	$captcha = md5($_POST["captcha"]);
 	
 	
@@ -107,11 +107,11 @@ echo "
 
 <p>
 <label>User Name:</label>
-<input type='text' name='username' />
+<input type='text' name='username'"; if(!empty($_POST)){ echo "value='".$_POST['username']."'";} echo "/> 
 </p>
 <p>
 <label>Display Name:</label>
-<input type='text' name='displayname' />
+<input type='text' name='displayname'"; if(!empty($_POST)){ echo "value='".$_POST['displayname']."'";} echo " />
 </p>
 <p>
 <label>Password:</label>
@@ -123,13 +123,7 @@ echo "
 </p>
 <p>
 <label>Email:</label>
-<input type='text' name='email' />
-</p>
-<p>
-<label>Musical experimence (check if yes):</label>
-<input type='checkbox' name='playinstrument' value='yes'>I play an instrument<br />
-<input type='checkbox' name='playregular' value='yes'>I (normally) play at least once a week for the past two years<br />
-<input type='checkbox' name='musiclessons' value='yes'>I have had music lessons for 5 years or more
+<input type='text' name='email'"; if(!empty($_POST)){ echo "value='".$_POST['email']."'";} echo " />
 </p>
 <p>
 <label>Security Code:</label>

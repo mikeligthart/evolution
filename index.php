@@ -28,7 +28,7 @@ Mutations ensure diversity and provide the possibility for new species to be gro
 <br />
 Survival of the fittest is of great importance. But how do we decide who the fittest individual are?<br /></p>
 
-<p>In this project, that is based on the <a href="http://http://darwintunes.org/">DarwinTunes project</a>, the population consist of audioloops.
+<p>In this project, that is based on the <a href='http://www.darwintunes.org'>DarwinTunes project</a>, the population consist of audioloops.
 <br />
 These audioloops can recombine (mate) and have kids!
 <br />
