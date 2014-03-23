@@ -48,6 +48,7 @@ $lang = array_merge($lang,array(
 	"ACCOUNT_TOKEN_NOT_FOUND"		=> "Token does not exist / Account is already activated",
 	"ACCOUNT_USER_INVALID_CHARACTERS"	=> "Username can only include alpha-numeric characters",
 	"ACCOUNT_DELETIONS_SUCCESSFUL"		=> "You have successfully deleted %m1% users",
+	"ACCOUNT_REMINDER_SUCCESSFUL"		=> "You have successfully reminded %m1% users",
 	"ACCOUNT_MANUALLY_ACTIVATED"		=> "%m1%'s account has been manually activated",
 	"ACCOUNT_DISPLAYNAME_UPDATED"		=> "Displayname changed to %m1%",
 	"ACCOUNT_TITLE_UPDATED"			=> "%m1%'s title changed to %m2%",

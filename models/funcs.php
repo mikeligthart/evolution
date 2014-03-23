@@ -199,6 +199,56 @@ function deleteUsers($users) {
 	return $i;
 }
 
+//Send users a reminder
+function remindUsers($users) {
+	global $mysqli,$db_table_prefix; 
+	$i = 0;
+	$mail_failure = false;
+	$stmt = $mysqli->prepare("UPDATE ".$db_table_prefix."users
+		SET last_reminder_send = ?
+		WHERE
+		id = ?
+		LIMIT 1
+		");
+	foreach($users as $id){
+		//Load data of user with id		
+		$user = fetchUserDetails(NULL, NULL, $id);
+		echo "User: $id - display: ".$user['display_name']." - email: ".$user['email']." - signin:".date("j M, Y", $user['last_sign_in_stamp'])." - number of ratings: ".$user['number_of_ratings']." <br />";
+		//Setting up mail		
+		$mail = new userCakeMail();
+		$hooks = array(
+			"searchStrs" => array("#USERNAME#", "#SIGNIN#", "#NUMBEROFRATINGS#"),
+			"subjectStrs" => array($user['display_name'], date("j M, Y", $user['last_sign_in_stamp']), $user['number_of_ratings'])
+			);
+		
+		/* Build the template - Optional, you can just use the sendMail function 
+		Instead to pass a message. */
+		
+		if(!$mail->newTemplateMsg("remind-user.txt",$hooks))
+		{
+			$mail_failure = true;
+		}
+		else
+		{
+			//Send the mail. Specify users email here and subject. 
+			//SendMail can have a third parementer for message if you do not wish to build a template.
+			
+			if(!$mail->sendMail($user['email'],"We can use your rating power once more!"))
+			{
+				$mail_failure = true;
+			}
+		}
+
+		if(!$mail_failure){
+			$stmt->bind_param("ii", time(), $id);
+			$stmt->execute();
+			$i++;
+		}
+	}
+	$stmt->close();
+	return $i;
+}
+
 //Check if a display name exists in the DB
 function displayNameExists($displayname)
 {
@@ -663,6 +713,8 @@ function deletePermission($permission) {
 	$stmt3->close();
 	return $i;
 }
+
+
 
 //Retrieve information for all permission levels
 function fetchAllPermissions()

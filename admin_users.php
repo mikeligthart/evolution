@@ -8,19 +8,26 @@ require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}
 
 //Forms posted
-if(!empty($_POST['deleteForm']))
+if(!empty($_POST))
 {
-	$deletions = $_POST['delete'];
-	if ($deletion_count = deleteUsers($deletions)){
-		$successes[] = lang("ACCOUNT_DELETIONS_SUCCESSFUL", array($deletion_count));
+	if(!empty($_POST['delete'])){	
+		$deletions = $_POST['delete'];
+		if ($deletion_count = deleteUsers($deletions)){
+			$successes[] = lang("ACCOUNT_DELETIONS_SUCCESSFUL", array($deletion_count));
+		}
+		else {
+			$errors[] = lang("SQL_ERROR");
+		}
 	}
-	else {
-		$errors[] = lang("SQL_ERROR");
-	}
-}
-
-if(!empty($_POST['reminderForm'])){
-
+	if(!empty($_POST['remind'])){	
+		$reminders = $_POST['remind'];
+		if ($reminder_count = remindUsers($reminders)){
+			$successes[] = lang("ACCOUNT_REMINDER_SUCCESSFUL", array($reminder_count));
+		}
+		else {
+			$errors[] = lang("SQL_ERROR");
+		}
+	}	
 }
 
 $userData = fetchAllUsers(); //Fetch information for all users
@@ -44,10 +51,10 @@ echo "
 echo resultBlock($errors,$successes);
 
 echo "
-<form name='deleteForm' action='".$_SERVER['PHP_SELF']."' method='post'>
+<form name='adminUsers' action='".$_SERVER['PHP_SELF']."' method='post'>
 <table class='admin'>
 <tr>
-<th>Delete</th><th>Username</th><th>Display Name</th><th>condition</th><th>ratings</th><th>Last Sign In</th><th>Last mail send</th>
+<th>Delete</th><th>Username</th><th>Display Name</th><th>condition</th><th>ratings</th><th>Last Sign In</th><th>Last mail send</th><th>Send reminder</th>
 </tr>";
 
 //Cycle through users
@@ -71,13 +78,14 @@ foreach ($userData as $v1) {
 	}
 	echo "
 	</td>
-	<td>".date("j M, Y", $v1['last_reminder_send'])."
+	<td>".date("j M, Y", $v1['last_reminder_send'])."</td>
+	<td><input type='checkbox' name='remind[".$v1['id']."]' id='remind[".$v1['id']."]' value='".$v1['id']."'></td>
 	</tr>";
 }
 
 echo "
 </table>
-<input type='submit' name='Submit' value='Delete' />
+<input type='submit' name='Submit' value='Process' />
 </form>
 </div>";
 

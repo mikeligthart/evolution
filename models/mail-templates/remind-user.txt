@@ -1,0 +1,10 @@
+Hello #USERNAME#
+
+The last time we have seen you on http://baseline.ai.ru.nl/evolution was #SIGNIN#.
+
+You have rated #NUMBEROFRATINGS# songs so far. Please help us out again by rating some more. The songs will progress in something nice every step. You can guide that process.
+
+Hope to see you soon!
+
+
+-Regards Janne and Mike
