@@ -126,6 +126,12 @@ echo "
 <input type='text' name='email'"; if(!empty($_POST)){ echo "value='".$_POST['email']."'";} echo " />
 </p>
 <p>
+<label>Musical experimence (check if yes):</label>
+<input type='checkbox' name='playinstrument' value='yes'>I play an instrument<br />
+<input type='checkbox' name='playregular' value='yes'>I (normally) play at least once a week for the past two years<br />
+<input type='checkbox' name='musiclessons' value='yes'>I have had music lessons for 5 years or more
+</p>
+<p>
 <label>Security Code:</label>
 <img src='models/captcha.php'>
 </p>
