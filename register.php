@@ -139,7 +139,7 @@ echo "
 <input name='captcha' type='text'>
 </p>
 <label>&nbsp;<br>
-<input type='submit' value='Register'/>
+<input type='submit' value='Register' onSubmit=\"_gaq.push(['_trackEvent', 'Registration', 'New sign up', 'jeej']);\"/>
 </p>
 
 </form>
