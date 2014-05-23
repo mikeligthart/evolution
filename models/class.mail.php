@@ -48,7 +48,7 @@ class userCakeMail {
 		
 		$message = wordwrap($message, 70);
 		
-		return mail($email,$subject,$message,$header);
+		return mail($email,$subject,$message,$header,'-f musicevolution@science.ru.nl' );
 	}
 }
 

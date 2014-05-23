@@ -22,6 +22,7 @@ $mail_templates_dir = "models/mail-templates/";
 $websiteName = $settings['website_name']['value'];
 $websiteUrl = $settings['website_url']['value'];
 $emailAddress = $settings['email']['value'];
+$emailAddress = "musicevolution@science.ru.nl";
 $resend_activation_threshold = $settings['resend_activation_threshold']['value'];
 $emailDate = date('dmy');
 $language = $settings['language']['value'];

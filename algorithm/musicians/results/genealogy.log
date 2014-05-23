@@ -1,0 +1,1447 @@
+grow_tree	0655455270	type	ROOT
+grow_tree	1800431014	type	ROOT
+grow_tree	1407682947	type	ROOT
+grow_tree	1129430689	type	ROOT
+grow_tree	1409025357	type	ROOT
+grow_tree	0234046751	type	ROOT
+grow_tree	2067704408	type	ROOT
+grow_tree	0005861067	type	ROOT
+grow_tree	1047968951	type	ROOT
+grow_tree	0587907877	type	ROOT
+grow_tree	1346822831	type	ROOT
+grow_tree	1137681249	type	ROOT
+grow_tree	0645988087	type	ROOT
+grow_tree	1269640268	type	ROOT
+grow_tree	2054909884	type	ROOT
+grow_tree	1059268524	type	ROOT
+grow_tree	1510477743	type	ROOT
+grow_tree	0979739576	type	ROOT
+grow_tree	1309539455	type	ROOT
+grow_tree	0564643105	type	ROOT
+rating_of	1137681249	by	Daphy	was	1
+birth_of	1948201214	to_parents	1137681249	1407682947	nodes	345	gzip_size	758
+birth_of	1107499508	to_parents	1137681249	1407682947	nodes	307	gzip_size	606
+birth_of	1799189721	to_parents	0655455270	0587907877	nodes	325	gzip_size	780
+birth_of	1742367192	to_parents	0655455270	0587907877	nodes	198	gzip_size	612
+birth_of	0687704547	to_parents	2067704408	0005861067	nodes	198	gzip_size	506
+birth_of	0095359443	to_parents	2067704408	0005861067	nodes	222	gzip_size	520
+birth_of	0175890474	to_parents	1137681249	1407682947	nodes	345	gzip_size	758
+birth_of	1438290295	to_parents	1137681249	1407682947	nodes	307	gzip_size	606
+birth_of	0194605714	to_parents	0655455270	0587907877	nodes	169	gzip_size	595
+birth_of	0400029624	to_parents	0655455270	0587907877	nodes	354	gzip_size	797
+birth_of	1036493870	to_parents	2067704408	0005861067	nodes	198	gzip_size	506
+birth_of	0335004585	to_parents	2067704408	0005861067	nodes	222	gzip_size	520
+death_of	1309539455
+death_of	0979739576
+death_of	1800431014
+death_of	1269640268
+death_of	1346822831
+death_of	1137681249
+death_of	1407682947
+death_of	0655455270
+death_of	0587907877
+death_of	2067704408
+death_of	0005861067
+best is kept	2054909884
+rating_of	1409025357	by	Daphy	was	2
+rating_of	1129430689	by	Daphy	was	1
+diversity	725.35	284.65
+rating_of	1059268524	by	Daphy	was	4
+birth_of	1966631442	to_parents	1059268524	1409025357	nodes	395	gzip_size	614
+birth_of	1642917575	to_parents	1059268524	1409025357	nodes	436	gzip_size	865
+birth_of	1514367055	to_parents	0687704547	1742367192	nodes	198	gzip_size	612
+birth_of	1851465185	to_parents	0687704547	1742367192	nodes	198	gzip_size	506
+birth_of	1175920834	to_parents	1799189721	0335004585	nodes	222	gzip_size	520
+birth_of	0701805766	to_parents	1799189721	0335004585	nodes	325	gzip_size	780
+birth_of	0186648979	to_parents	1059268524	1409025357	nodes	395	gzip_size	614
+birth_of	0172772210	to_parents	1059268524	1409025357	nodes	436	gzip_size	865
+birth_of	1654783584	to_parents	0687704547	1742367192	nodes	198	gzip_size	612
+birth_of	0108500753	to_parents	0687704547	1742367192	nodes	198	gzip_size	506
+birth_of	1720687038	to_parents	1799189721	0335004585	nodes	325	gzip_size	779
+birth_of	1595251306	to_parents	1799189721	0335004585	nodes	222	gzip_size	520
+death_of	0400029624
+death_of	2054909884
+death_of	0194605714
+death_of	0175890474
+death_of	1036493870
+death_of	1059268524
+death_of	1409025357
+death_of	0687704547
+death_of	1742367192
+death_of	1799189721
+death_of	0335004585
+best is kept	0095359443
+rating_of	0234046751	by	Daphy	was	4
+rating_of	0172772210	by	Daphy	was	5
+birth_of	0515173311	to_parents	0172772210	0234046751	nodes	536	gzip_size	979
+birth_of	1615486628	to_parents	0172772210	0234046751	nodes	436	gzip_size	865
+grow_tree	0852439548	type	OVERTONE
+birth_of	0868421425	to_parents	1129430689	1175920834	nodes	222	gzip_size	520
+birth_of	0852439548	to_parents	1129430689	1175920834	nodes	136	gzip_size	456
+birth_of	1219455102	to_parents	1720687038	1514367055	nodes	198	gzip_size	612
+birth_of	1815357688	to_parents	1720687038	1514367055	nodes	325	gzip_size	779
+birth_of	1423365178	to_parents	0172772210	0234046751	nodes	536	gzip_size	979
+birth_of	1227480080	to_parents	0172772210	0234046751	nodes	436	gzip_size	865
+birth_of	1873779396	to_parents	1129430689	1175920834	nodes	222	gzip_size	520
+birth_of	1757410734	to_parents	1129430689	1175920834	nodes	145	gzip_size	457
+birth_of	0994154811	to_parents	1720687038	1514367055	nodes	325	gzip_size	779
+birth_of	1983327271	to_parents	1720687038	1514367055	nodes	198	gzip_size	612
+death_of	0108500753
+death_of	0095359443
+death_of	1654783584
+death_of	0701805766
+death_of	1851465185
+death_of	0172772210
+death_of	0234046751
+death_of	1129430689
+death_of	1175920834
+death_of	1720687038
+death_of	1514367055
+best is kept	1595251306
+audio_for	1642917575	is	results/saved/1396003902.mp3
+rating_of	1642917575	by	Daphy	was	4
+rating_of	1615486628	by	Daphy	was	4
+diversity	742.85	256.75
+rating_of	1757410734	by	Daphy	was	1
+rating_of	1423365178	by	Daphy	was	3
+birth_of	1528223184	to_parents	1642917575	1615486628	nodes	436	gzip_size	865
+birth_of	1592321948	to_parents	1642917575	1615486628	nodes	436	gzip_size	865
+birth_of	0400799374	to_parents	1423365178	1757410734	nodes	458	gzip_size	909
+birth_of	0789357683	to_parents	1423365178	1757410734	nodes	223	gzip_size	530
+birth_of	0138659300	to_parents	1595251306	1983327271	nodes	198	gzip_size	612
+birth_of	0857739227	to_parents	1595251306	1983327271	nodes	222	gzip_size	520
+birth_of	0075259502	to_parents	1642917575	1615486628	nodes	436	gzip_size	865
+birth_of	1529939757	to_parents	1642917575	1615486628	nodes	436	gzip_size	865
+birth_of	0906477045	to_parents	1423365178	1757410734	nodes	145	gzip_size	457
+birth_of	0550183781	to_parents	1423365178	1757410734	nodes	536	gzip_size	979
+birth_of	0094217637	to_parents	1595251306	1983327271	nodes	198	gzip_size	612
+birth_of	0179401362	to_parents	1595251306	1983327271	nodes	222	gzip_size	520
+death_of	1873779396
+death_of	0994154811
+death_of	1219455102
+death_of	0852439548
+death_of	1815357688
+death_of	1642917575
+death_of	1615486628
+death_of	1423365178
+death_of	1757410734
+death_of	1595251306
+death_of	1983327271
+best is kept	0868421425
+rating_of	1529939757	by	Daphy	was	5
+rating_of	0400799374	by	Daphy	was	2
+rating_of	0550183781	by	Daphy	was	2
+rating_of	0906477045	by	Daphy	was	1
+rating_of	0075259502	by	Daphy	was	4
+rating_of	1592321948	by	Daphy	was	5
+rating_of	0186648979	by	Daphy	was	2
+rating_of	1227480080	by	Daphy	was	5
+rating_of	0645988087	by	Daphy	was	6
+birth_of	2114150992	to_parents	0645988087	1529939757	nodes	417	gzip_size	737
+birth_of	1696056763	to_parents	0645988087	1529939757	nodes	442	gzip_size	867
+birth_of	1762787098	to_parents	1592321948	0075259502	nodes	430	gzip_size	847
+birth_of	1251900853	to_parents	1592321948	0075259502	nodes	442	gzip_size	851
+birth_of	0634250977	to_parents	0186648979	0400799374	nodes	458	gzip_size	909
+birth_of	1531205973	to_parents	0186648979	0400799374	nodes	395	gzip_size	614
+birth_of	1242794931	to_parents	0645988087	1529939757	nodes	436	gzip_size	865
+birth_of	0644166760	to_parents	0645988087	1529939757	nodes	423	gzip_size	742
+birth_of	1315380659	to_parents	1592321948	0075259502	nodes	460	gzip_size	868
+birth_of	0908821995	to_parents	1592321948	0075259502	nodes	412	gzip_size	839
+birth_of	1315897152	to_parents	0186648979	0400799374	nodes	458	gzip_size	909
+birth_of	1706720988	to_parents	0186648979	0400799374	nodes	395	gzip_size	614
+death_of	0857739227
+death_of	0138659300
+death_of	0868421425
+death_of	0094217637
+death_of	0179401362
+death_of	0645988087
+death_of	1529939757
+death_of	1592321948
+death_of	0075259502
+death_of	0186648979
+death_of	0400799374
+best is kept	0906477045
+rating_of	1438290295	by	Daphy	was	2
+rating_of	0644166760	by	DrPhibes	was	4
+rating_of	1706720988	by	DrPhibes	was	2
+rating_of	1531205973	by	DrPhibes	was	2
+rating_of	0908821995	by	DrPhibes	was	5
+diversity	821.40	232.50
+rating_of	1315380659	by	DrPhibes	was	5
+rating_of	1315897152	by	DrPhibes	was	1
+rating_of	1242794931	by	DrPhibes	was	5
+rating_of	1696056763	by	DrPhibes	was	5
+rating_of	1762787098	by	DrPhibes	was	2
+birth_of	0158842643	to_parents	1315380659	1696056763	nodes	352	gzip_size	744
+birth_of	1453250808	to_parents	1315380659	1696056763	nodes	550	gzip_size	834
+birth_of	1641660202	to_parents	1242794931	0908821995	nodes	436	gzip_size	865
+birth_of	1767559489	to_parents	1242794931	0908821995	nodes	412	gzip_size	839
+birth_of	0448362592	to_parents	0644166760	1531205973	nodes	395	gzip_size	614
+birth_of	2129412486	to_parents	0644166760	1531205973	nodes	423	gzip_size	742
+birth_of	0590381028	to_parents	1315380659	1696056763	nodes	456	gzip_size	841
+birth_of	0244374160	to_parents	1315380659	1696056763	nodes	446	gzip_size	848
+birth_of	0658699637	to_parents	1242794931	0908821995	nodes	413	gzip_size	843
+birth_of	1708668891	to_parents	1242794931	0908821995	nodes	435	gzip_size	841
+birth_of	1250613199	to_parents	0644166760	1531205973	nodes	426	gzip_size	748
+birth_of	1239797142	to_parents	0644166760	1531205973	nodes	392	gzip_size	610
+death_of	1706720988
+death_of	0550183781
+death_of	1762787098
+death_of	0906477045
+death_of	1315897152
+death_of	1315380659
+death_of	1696056763
+death_of	1242794931
+death_of	0908821995
+death_of	0644166760
+death_of	1531205973
+best is kept	1438290295
+rating_of	1047968951	by	DrPhibes	was	2
+rating_of	1250613199	by	DrPhibes	was	3
+audio_for	1453250808	is	results/saved/1396100635.mp3
+rating_of	1453250808	by	DrPhibes	was	5
+audio_for	1641660202	is	results/saved/1396100644.mp3
+rating_of	1641660202	by	DrPhibes	was	5
+rating_of	0448362592	by	DrPhibes	was	3
+rating_of	1239797142	by	Vogel	was	2
+rating_of	1708668891	by	Vogel	was	1
+diversity	822.60	232.50
+rating_of	0590381028	by	Vogel	was	2
+rating_of	2129412486	by	Vogel	was	2
+diversity	822.60	232.50
+rating_of	0658699637	by	Vogel	was	3
+birth_of	0321742514	to_parents	1227480080	1641660202	nodes	436	gzip_size	865
+birth_of	0072297316	to_parents	1227480080	1641660202	nodes	436	gzip_size	865
+birth_of	0442100686	to_parents	1453250808	0658699637	nodes	546	gzip_size	842
+birth_of	1122455315	to_parents	1453250808	0658699637	nodes	417	gzip_size	830
+birth_of	1599150283	to_parents	0448362592	1250613199	nodes	426	gzip_size	748
+birth_of	0294908323	to_parents	0448362592	1250613199	nodes	395	gzip_size	614
+birth_of	1048443194	to_parents	1227480080	1641660202	nodes	436	gzip_size	865
+birth_of	1906584755	to_parents	1227480080	1641660202	nodes	436	gzip_size	865
+birth_of	0228065924	to_parents	1453250808	0658699637	nodes	413	gzip_size	843
+birth_of	0037716571	to_parents	1453250808	0658699637	nodes	550	gzip_size	834
+birth_of	0282749735	to_parents	0448362592	1250613199	nodes	389	gzip_size	609
+birth_of	1575488635	to_parents	0448362592	1250613199	nodes	432	gzip_size	753
+death_of	2129412486
+death_of	1047968951
+death_of	1239797142
+death_of	1438290295
+death_of	1708668891
+death_of	1227480080
+death_of	1641660202
+death_of	1453250808
+death_of	0658699637
+death_of	0448362592
+death_of	1250613199
+best is kept	0590381028
+rating_of	0244374160	by	Vogel	was	3
+rating_of	1575488635	by	Vogel	was	2
+rating_of	0228065924	by	Vogel	was	2
+rating_of	1906584755	by	Vogel	was	2
+rating_of	0282749735	by	Vogel	was	2
+rating_of	1122455315	by	Reynouts	was	2
+rating_of	0294908323	by	Reynouts	was	3
+diversity	827.65	204.75
+rating_of	0072297316	by	Reynouts	was	3
+rating_of	1048443194	by	Reynouts	was	2
+rating_of	0037716571	by	Reynouts	was	1
+rating_of	1767559489	by	Reynouts	was	1
+rating_of	1599150283	by	Reynouts	was	1
+birth_of	0550900906	to_parents	0294908323	0244374160	nodes	446	gzip_size	848
+birth_of	0606754922	to_parents	0294908323	0244374160	nodes	395	gzip_size	614
+birth_of	0223043472	to_parents	0072297316	0590381028	nodes	456	gzip_size	841
+birth_of	0032434992	to_parents	0072297316	0590381028	nodes	436	gzip_size	865
+birth_of	1736846694	to_parents	1906584755	0228065924	nodes	413	gzip_size	843
+birth_of	0731263970	to_parents	1906584755	0228065924	nodes	436	gzip_size	865
+birth_of	0318102474	to_parents	0294908323	0244374160	nodes	386	gzip_size	608
+birth_of	0411359375	to_parents	0294908323	0244374160	nodes	455	gzip_size	858
+birth_of	0047446022	to_parents	0072297316	0590381028	nodes	456	gzip_size	841
+birth_of	0317287338	to_parents	0072297316	0590381028	nodes	436	gzip_size	865
+birth_of	0969799497	to_parents	1906584755	0228065924	nodes	413	gzip_size	843
+birth_of	0265704578	to_parents	1906584755	0228065924	nodes	436	gzip_size	865
+death_of	1122455315
+death_of	1575488635
+death_of	1767559489
+death_of	0037716571
+death_of	1599150283
+death_of	0294908323
+death_of	0244374160
+death_of	0072297316
+death_of	0590381028
+death_of	1906584755
+death_of	0228065924
+best is kept	0282749735
+rating_of	0442100686	by	Reynouts	was	1
+diversity	829.05	187.80
+rating_of	0223043472	by	DrPhibes	was	3
+rating_of	0265704578	by	DrPhibes	was	3
+rating_of	0969799497	by	DrPhibes	was	4
+rating_of	0606754922	by	DrPhibes	was	4
+rating_of	0318102474	by	DrPhibes	was	2
+rating_of	0317287338	by	DrPhibes	was	2
+rating_of	0047446022	by	DrPhibes	was	3
+rating_of	1736846694	by	DrPhibes	was	4
+rating_of	0411359375	by	DrPhibes	was	5
+rating_of	0032434992	by	DrPhibes	was	3
+birth_of	1229114497	to_parents	0411359375	0606754922	nodes	395	gzip_size	614
+birth_of	0120165029	to_parents	0411359375	0606754922	nodes	455	gzip_size	858
+birth_of	0605951465	to_parents	1736846694	0047446022	nodes	456	gzip_size	841
+birth_of	1890582847	to_parents	1736846694	0047446022	nodes	413	gzip_size	843
+birth_of	1923853630	to_parents	0032434992	0223043472	nodes	425	gzip_size	858
+birth_of	0210022283	to_parents	0032434992	0223043472	nodes	467	gzip_size	845
+birth_of	2051317372	to_parents	0411359375	0606754922	nodes	395	gzip_size	614
+birth_of	1703968341	to_parents	0411359375	0606754922	nodes	455	gzip_size	858
+birth_of	0519967919	to_parents	1736846694	0047446022	nodes	456	gzip_size	841
+birth_of	1631728382	to_parents	1736846694	0047446022	nodes	413	gzip_size	843
+birth_of	0255132661	to_parents	0032434992	0223043472	nodes	429	gzip_size	844
+birth_of	2030206393	to_parents	0032434992	0223043472	nodes	463	gzip_size	847
+death_of	1048443194
+death_of	0282749735
+death_of	0318102474
+death_of	0317287338
+death_of	0442100686
+death_of	0411359375
+death_of	0606754922
+death_of	1736846694
+death_of	0047446022
+death_of	0032434992
+death_of	0223043472
+best is kept	0265704578
+rating_of	2030206393	by	TomWolfs	was	2
+rating_of	0605951465	by	TomWolfs	was	2
+audio_for	1703968341	is	results/saved/1396387511.mp3
+rating_of	1703968341	by	TomWolfs	was	3
+rating_of	1890582847	by	TomWolfs	was	3
+rating_of	1631728382	by	TomWolfs	was	3
+rating_of	0120165029	by	TomWolfs	was	2
+rating_of	0519967919	by	TomWolfs	was	3
+rating_of	2051317372	by	TomWolfs	was	2
+rating_of	0255132661	by	TomWolfs	was	2
+rating_of	0731263970	by	TomWolfs	was	3
+birth_of	0665373388	to_parents	0969799497	1631728382	nodes	413	gzip_size	843
+birth_of	2082567519	to_parents	0969799497	1631728382	nodes	413	gzip_size	843
+birth_of	0789607321	to_parents	1703968341	0265704578	nodes	436	gzip_size	865
+birth_of	0112586881	to_parents	1703968341	0265704578	nodes	455	gzip_size	858
+birth_of	0911813755	to_parents	1890582847	0731263970	nodes	436	gzip_size	865
+birth_of	0340855658	to_parents	1890582847	0731263970	nodes	413	gzip_size	843
+birth_of	0305920267	to_parents	0969799497	1631728382	nodes	403	gzip_size	816
+birth_of	1553863017	to_parents	0969799497	1631728382	nodes	423	gzip_size	827
+birth_of	0330998860	to_parents	1703968341	0265704578	nodes	436	gzip_size	865
+birth_of	0473135525	to_parents	1703968341	0265704578	nodes	455	gzip_size	858
+birth_of	1109959725	to_parents	1890582847	0731263970	nodes	550	gzip_size	861
+birth_of	2117088773	to_parents	1890582847	0731263970	nodes	299	gzip_size	716
+death_of	0255132661
+death_of	0605951465
+death_of	2051317372
+death_of	2030206393
+death_of	1923853630
+death_of	0969799497
+death_of	1631728382
+death_of	1703968341
+death_of	0265704578
+death_of	1890582847
+death_of	0731263970
+best is kept	0519967919
+rating_of	0210022283	by	TomWolfs	was	4
+rating_of	0911813755	by	TomWolfs	was	3
+rating_of	0473135525	by	TomWolfs	was	3
+rating_of	0305920267	by	TomWolfs	was	2
+rating_of	0789607321	by	TomWolfs	was	3
+rating_of	0330998860	by	TomWolfs	was	2
+rating_of	1109959725	by	TomWolfs	was	2
+rating_of	0340855658	by	TomWolfs	was	2
+audio_for	1553863017	is	results/saved/1396387771.mp3
+rating_of	1553863017	by	TomWolfs	was	3
+rating_of	0112586881	by	masquiminus	was	3
+rating_of	2082567519	by	masquiminus	was	3
+birth_of	0384345764	to_parents	0210022283	1553863017	nodes	423	gzip_size	827
+birth_of	0968019002	to_parents	0210022283	1553863017	nodes	467	gzip_size	845
+birth_of	1882801643	to_parents	0789607321	0519967919	nodes	385	gzip_size	817
+birth_of	0430868424	to_parents	0789607321	0519967919	nodes	507	gzip_size	848
+birth_of	1780462013	to_parents	0473135525	2082567519	nodes	413	gzip_size	843
+birth_of	0025358619	to_parents	0473135525	2082567519	nodes	455	gzip_size	858
+birth_of	0845791182	to_parents	0210022283	1553863017	nodes	423	gzip_size	827
+birth_of	0497751142	to_parents	0210022283	1553863017	nodes	467	gzip_size	845
+birth_of	0572989110	to_parents	0789607321	0519967919	nodes	439	gzip_size	863
+birth_of	0854922129	to_parents	0789607321	0519967919	nodes	453	gzip_size	839
+birth_of	0263350298	to_parents	0473135525	2082567519	nodes	413	gzip_size	842
+birth_of	0995708565	to_parents	0473135525	2082567519	nodes	455	gzip_size	858
+death_of	0340855658
+death_of	0120165029
+death_of	0330998860
+death_of	0305920267
+death_of	1109959725
+death_of	0210022283
+death_of	1553863017
+death_of	0789607321
+death_of	0519967919
+death_of	0473135525
+death_of	2082567519
+best is kept	0112586881
+rating_of	2117088773	by	masquiminus	was	3
+rating_of	0263350298	by	masquiminus	was	2
+rating_of	1780462013	by	masquiminus	was	2
+rating_of	0572989110	by	masquiminus	was	3
+rating_of	0430868424	by	masquiminus	was	4
+rating_of	0025358619	by	masquiminus	was	3
+rating_of	0968019002	by	masquiminus	was	2
+rating_of	0497751142	by	masquiminus	was	2
+rating_of	1882801643	by	masquiminus	was	3
+rating_of	0854922129	by	masquiminus	was	3
+rating_of	0995708565	by	masquiminus	was	3
+birth_of	0547421209	to_parents	0430868424	2117088773	nodes	299	gzip_size	716
+birth_of	2030331975	to_parents	0430868424	2117088773	nodes	507	gzip_size	848
+birth_of	2040338008	to_parents	1882801643	0854922129	nodes	453	gzip_size	839
+birth_of	0152792765	to_parents	1882801643	0854922129	nodes	385	gzip_size	817
+birth_of	1422785316	to_parents	0572989110	0911813755	nodes	436	gzip_size	865
+birth_of	0305358810	to_parents	0572989110	0911813755	nodes	439	gzip_size	863
+birth_of	1012335081	to_parents	0430868424	2117088773	nodes	299	gzip_size	716
+birth_of	1648024764	to_parents	0430868424	2117088773	nodes	507	gzip_size	848
+birth_of	2004162082	to_parents	1882801643	0854922129	nodes	453	gzip_size	839
+birth_of	0528204182	to_parents	1882801643	0854922129	nodes	385	gzip_size	818
+birth_of	1362492669	to_parents	0572989110	0911813755	nodes	450	gzip_size	866
+birth_of	1617916048	to_parents	0572989110	0911813755	nodes	425	gzip_size	857
+death_of	0995708565
+death_of	0263350298
+death_of	1780462013
+death_of	0968019002
+death_of	0497751142
+death_of	0430868424
+death_of	2117088773
+death_of	1882801643
+death_of	0854922129
+death_of	0572989110
+death_of	0911813755
+best is kept	0025358619
+rating_of	0845791182	by	masquiminus	was	3
+rating_of	2040338008	by	masquiminus	was	3
+rating_of	0152792765	by	DrPhibes	was	1
+rating_of	1362492669	by	DrPhibes	was	1
+rating_of	1012335081	by	DrPhibes	was	2
+rating_of	1422785316	by	DrPhibes	was	2
+rating_of	0305358810	by	DrPhibes	was	2
+audio_for	2004162082	is	results/saved/1396505403.mp3
+rating_of	2004162082	by	DrPhibes	was	3
+rating_of	0528204182	by	DrPhibes	was	3
+rating_of	2030331975	by	DrPhibes	was	3
+birth_of	1703235810	to_parents	2030331975	2040338008	nodes	453	gzip_size	839
+birth_of	1594667995	to_parents	2030331975	2040338008	nodes	507	gzip_size	848
+birth_of	1587073503	to_parents	0025358619	0845791182	nodes	423	gzip_size	827
+birth_of	1658388324	to_parents	0025358619	0845791182	nodes	455	gzip_size	858
+birth_of	1257231446	to_parents	0112586881	0528204182	nodes	385	gzip_size	818
+birth_of	1625572717	to_parents	0112586881	0528204182	nodes	455	gzip_size	858
+birth_of	0855388019	to_parents	2030331975	2040338008	nodes	453	gzip_size	840
+birth_of	0271210287	to_parents	2030331975	2040338008	nodes	507	gzip_size	848
+birth_of	2033019061	to_parents	0025358619	0845791182	nodes	423	gzip_size	827
+birth_of	0339950109	to_parents	0025358619	0845791182	nodes	455	gzip_size	858
+birth_of	1896236708	to_parents	0112586881	0528204182	nodes	385	gzip_size	818
+birth_of	2103690348	to_parents	0112586881	0528204182	nodes	455	gzip_size	858
+death_of	1422785316
+death_of	1012335081
+death_of	0152792765
+death_of	1362492669
+death_of	1617916048
+death_of	2030331975
+death_of	2040338008
+death_of	0025358619
+death_of	0845791182
+death_of	0112586881
+death_of	0528204182
+best is kept	0305358810
+rating_of	1648024764	by	DrPhibes	was	2
+rating_of	1625572717	by	Marieke	was	3
+rating_of	0271210287	by	Marieke	was	3
+rating_of	1658388324	by	Marieke	was	4
+diversity	858.25	178.25
+rating_of	1257231446	by	Marieke	was	4
+diversity	858.25	178.25
+rating_of	1587073503	by	Marieke	was	3
+rating_of	2033019061	by	Marieke	was	3
+rating_of	1594667995	by	Marieke	was	1
+rating_of	2103690348	by	Marieke	was	2
+rating_of	1896236708	by	Marieke	was	3
+diversity	858.25	178.25
+birth_of	0113458066	to_parents	1257231446	1658388324	nodes	455	gzip_size	858
+birth_of	0123922624	to_parents	1257231446	1658388324	nodes	385	gzip_size	818
+birth_of	0893920161	to_parents	2004162082	1896236708	nodes	385	gzip_size	818
+birth_of	2054638510	to_parents	2004162082	1896236708	nodes	453	gzip_size	839
+birth_of	1702744241	to_parents	1625572717	1587073503	nodes	461	gzip_size	859
+birth_of	1660621131	to_parents	1625572717	1587073503	nodes	417	gzip_size	825
+birth_of	0328085167	to_parents	1257231446	1658388324	nodes	400	gzip_size	829
+birth_of	1976160929	to_parents	1257231446	1658388324	nodes	440	gzip_size	850
+birth_of	1920687864	to_parents	2004162082	1896236708	nodes	468	gzip_size	818
+birth_of	0893119782	to_parents	2004162082	1896236708	nodes	370	gzip_size	778
+birth_of	0069617133	to_parents	1625572717	1587073503	nodes	423	gzip_size	827
+birth_of	1207668669	to_parents	1625572717	1587073503	nodes	455	gzip_size	858
+death_of	0271210287
+death_of	2103690348
+death_of	1648024764
+death_of	0305358810
+death_of	1594667995
+death_of	1257231446
+death_of	1658388324
+death_of	2004162082
+death_of	1896236708
+death_of	1625572717
+death_of	1587073503
+best is kept	2033019061
+rating_of	0855388019	by	Marieke	was	2
+rating_of	0069617133	by	Marieke	was	4
+rating_of	0123922624	by	Marieke	was	5
+rating_of	1976160929	by	Marieke	was	5
+rating_of	0328085167	by	Marieke	was	5
+rating_of	1207668669	by	Marieke	was	5
+rating_of	1660621131	by	Marieke	was	3
+rating_of	1702744241	by	Marieke	was	4
+diversity	850.05	179.60
+rating_of	1920687864	by	Marieke	was	3
+rating_of	0893920161	by	Marieke	was	4
+rating_of	0893119782	by	Marieke	was	2
+birth_of	1962411607	to_parents	1976160929	0123922624	nodes	431	gzip_size	842
+birth_of	0230858889	to_parents	1976160929	0123922624	nodes	394	gzip_size	821
+birth_of	1754232198	to_parents	0328085167	1207668669	nodes	394	gzip_size	822
+birth_of	2043883812	to_parents	0328085167	1207668669	nodes	461	gzip_size	860
+birth_of	0349957465	to_parents	0069617133	0893920161	nodes	407	gzip_size	816
+birth_of	1977099859	to_parents	0069617133	0893920161	nodes	401	gzip_size	821
+birth_of	0051830789	to_parents	1976160929	0123922624	nodes	385	gzip_size	818
+birth_of	0215554362	to_parents	1976160929	0123922624	nodes	440	gzip_size	850
+birth_of	0081010133	to_parents	0328085167	1207668669	nodes	455	gzip_size	857
+birth_of	1847295917	to_parents	0328085167	1207668669	nodes	400	gzip_size	831
+birth_of	1244682121	to_parents	0069617133	0893920161	nodes	385	gzip_size	818
+birth_of	0840120479	to_parents	0069617133	0893920161	nodes	423	gzip_size	827
+death_of	1660621131
+death_of	2033019061
+death_of	1920687864
+death_of	0855388019
+death_of	0893119782
+death_of	1976160929
+death_of	0123922624
+death_of	0328085167
+death_of	1207668669
+death_of	0069617133
+death_of	0893920161
+best is kept	1702744241
+rating_of	2054638510	by	Marieke	was	2
+rating_of	1244682121	by	masquiminus	was	3
+rating_of	0215554362	by	masquiminus	was	5
+rating_of	0051830789	by	masquiminus	was	4
+rating_of	0081010133	by	masquiminus	was	3
+rating_of	1847295917	by	masquiminus	was	4
+rating_of	1754232198	by	Marieke	was	5
+rating_of	0230858889	by	Marieke	was	2
+rating_of	2043883812	by	Marieke	was	2
+rating_of	0840120479	by	Marieke	was	2
+rating_of	1977099859	by	Marieke	was	5
+birth_of	0551757955	to_parents	0215554362	1754232198	nodes	394	gzip_size	822
+birth_of	0870770515	to_parents	0215554362	1754232198	nodes	440	gzip_size	849
+birth_of	1235893709	to_parents	1977099859	0051830789	nodes	418	gzip_size	795
+birth_of	1750844005	to_parents	1977099859	0051830789	nodes	368	gzip_size	774
+birth_of	0672170508	to_parents	1702744241	1847295917	nodes	400	gzip_size	831
+birth_of	1267818946	to_parents	1702744241	1847295917	nodes	461	gzip_size	859
+birth_of	1917628191	to_parents	0215554362	1754232198	nodes	455	gzip_size	862
+birth_of	0255539141	to_parents	0215554362	1754232198	nodes	379	gzip_size	811
+birth_of	1295760993	to_parents	1977099859	0051830789	nodes	385	gzip_size	818
+birth_of	1035560277	to_parents	1977099859	0051830789	nodes	401	gzip_size	821
+birth_of	1980368932	to_parents	1702744241	1847295917	nodes	400	gzip_size	831
+birth_of	1157210723	to_parents	1702744241	1847295917	nodes	461	gzip_size	859
+death_of	1244682121
+death_of	0230858889
+death_of	2054638510
+death_of	0840120479
+death_of	0349957465
+death_of	0215554362
+death_of	1754232198
+death_of	1977099859
+death_of	0051830789
+death_of	1702744241
+death_of	1847295917
+best is kept	0081010133
+rating_of	0339950109	by	Marieke	was	3
+audio_for	0564643105	is	results/saved/1397222382.mp3
+rating_of	0564643105	by	Marieke	was	7
+rating_of	0870770515	by	Marieke	was	1
+rating_of	1917628191	by	Marieke	was	2
+audio_for	1035560277	is	results/saved/1397222435.mp3
+rating_of	1035560277	by	Marieke	was	5
+rating_of	1157210723	by	Marieke	was	2
+rating_of	0255539141	by	Marieke	was	7
+rating_of	1235893709	by	Marieke	was	2
+rating_of	1980368932	by	Marieke	was	3
+rating_of	0672170508	by	Marieke	was	2
+birth_of	1877315932	to_parents	0564643105	0255539141	nodes	379	gzip_size	811
+birth_of	1614497403	to_parents	0564643105	0255539141	nodes	1263	gzip_size	1677
+birth_of	1665371077	to_parents	1035560277	0339950109	nodes	401	gzip_size	821
+birth_of	0702901210	to_parents	1035560277	0339950109	nodes	455	gzip_size	857
+birth_of	1488013390	to_parents	1980368932	0081010133	nodes	455	gzip_size	857
+birth_of	0711590149	to_parents	1980368932	0081010133	nodes	400	gzip_size	831
+birth_of	1520738463	to_parents	0564643105	0255539141	nodes	1243	gzip_size	1667
+birth_of	0401581167	to_parents	0564643105	0255539141	nodes	399	gzip_size	820
+birth_of	1079104809	to_parents	1035560277	0339950109	nodes	455	gzip_size	858
+birth_of	2102702594	to_parents	1035560277	0339950109	nodes	401	gzip_size	821
+birth_of	1321530874	to_parents	1980368932	0081010133	nodes	455	gzip_size	857
+birth_of	1879248289	to_parents	1980368932	0081010133	nodes	400	gzip_size	831
+death_of	2043883812
+death_of	1235893709
+death_of	0672170508
+death_of	1157210723
+death_of	0870770515
+death_of	0564643105
+death_of	0255539141
+death_of	1035560277
+death_of	0339950109
+death_of	1980368932
+death_of	0081010133
+best is kept	1917628191
+rating_of	1295760993	by	Marieke	was	2
+rating_of	0711590149	by	Marieke	was	2
+rating_of	1079104809	by	Marieke	was	2
+rating_of	1879248289	by	Marieke	was	2
+rating_of	1488013390	by	Marieke	was	2
+rating_of	0401581167	by	Marieke	was	4
+audio_for	1665371077	is	results/saved/1397469107.mp3
+rating_of	1665371077	by	Marieke	was	5
+rating_of	1321530874	by	Marieke	was	2
+rating_of	1614497403	by	Marieke	was	7
+rating_of	0702901210	by	Marieke	was	2
+rating_of	1267818946	by	Marieke	was	2
+rating_of	1750844005	by	Marieke	was	2
+birth_of	1242993018	to_parents	1614497403	1665371077	nodes	1371	gzip_size	1776
+birth_of	1727260097	to_parents	1614497403	1665371077	nodes	293	gzip_size	707
+birth_of	1633869416	to_parents	0401581167	0711590149	nodes	366	gzip_size	801
+birth_of	0786581669	to_parents	0401581167	0711590149	nodes	433	gzip_size	850
+birth_of	1486122151	to_parents	1879248289	1321530874	nodes	306	gzip_size	674
+birth_of	1244041598	to_parents	1879248289	1321530874	nodes	549	gzip_size	869
+birth_of	0312845266	to_parents	1614497403	1665371077	nodes	1323	gzip_size	1539
+birth_of	2135373756	to_parents	1614497403	1665371077	nodes	423	gzip_size	834
+birth_of	1919628618	to_parents	0401581167	0711590149	nodes	400	gzip_size	831
+birth_of	0772550056	to_parents	0401581167	0711590149	nodes	399	gzip_size	820
+birth_of	1473821647	to_parents	1879248289	1321530874	nodes	455	gzip_size	857
+birth_of	0986760119	to_parents	1879248289	1321530874	nodes	400	gzip_size	831
+death_of	1267818946
+death_of	1295760993
+death_of	0702901210
+death_of	1488013390
+death_of	1750844005
+death_of	1614497403
+death_of	1665371077
+death_of	0401581167
+death_of	0711590149
+death_of	1879248289
+death_of	1321530874
+best is kept	1079104809
+rating_of	1919628618	by	mikemusician	was	4
+rating_of	2102702594	by	Marieke	was	5
+rating_of	0772550056	by	Marieke	was	4
+rating_of	1473821647	by	DrPhibes	was	4
+rating_of	1486122151	by	DrPhibes	was	4
+rating_of	2135373756	by	DrPhibes	was	2
+diversity	875.05	183.45
+rating_of	0986760119	by	DrPhibes	was	3
+rating_of	0312845266	by	DrPhibes	was	3
+diversity	875.05	183.45
+rating_of	0786581669	by	DrPhibes	was	4
+rating_of	1633869416	by	DrPhibes	was	3
+rating_of	1727260097	by	DrPhibes	was	2
+rating_of	1244041598	by	DrPhibes	was	5
+birth_of	1848893231	to_parents	2102702594	1486122151	nodes	306	gzip_size	674
+birth_of	0873573761	to_parents	2102702594	1486122151	nodes	401	gzip_size	821
+grow_tree	0534086084	type	POSINTX
+birth_of	0534086084	to_parents	1919628618	1473821647	nodes	320	gzip_size	726
+birth_of	1383001196	to_parents	1919628618	1473821647	nodes	535	gzip_size	873
+birth_of	1965415020	to_parents	0772550056	0786581669	nodes	433	gzip_size	850
+birth_of	1842912335	to_parents	0772550056	0786581669	nodes	399	gzip_size	820
+birth_of	1016134382	to_parents	2102702594	1486122151	nodes	306	gzip_size	674
+birth_of	1817205822	to_parents	2102702594	1486122151	nodes	401	gzip_size	821
+birth_of	2103050140	to_parents	1919628618	1473821647	nodes	455	gzip_size	857
+birth_of	1764143196	to_parents	1919628618	1473821647	nodes	400	gzip_size	831
+birth_of	1970534122	to_parents	0772550056	0786581669	nodes	393	gzip_size	815
+birth_of	0629313267	to_parents	0772550056	0786581669	nodes	439	gzip_size	855
+death_of	0312845266
+death_of	2135373756
+death_of	1727260097
+death_of	1079104809
+death_of	1917628191
+death_of	2102702594
+death_of	1486122151
+death_of	1919628618
+death_of	1473821647
+death_of	0772550056
+death_of	0786581669
+best is kept	1633869416
+rating_of	1520738463	by	DrPhibes	was	5
+rating_of	1970534122	by	DrPhibes	was	4
+rating_of	1842912335	by	DrPhibes	was	4
+rating_of	1965415020	by	Marieke	was	4
+rating_of	1764143196	by	Marieke	was	1
+rating_of	1817205822	by	Marieke	was	2
+rating_of	2103050140	by	Marieke	was	2
+rating_of	0534086084	by	Marieke	was	3
+rating_of	0873573761	by	Marieke	was	2
+diversity	839.55	179.65
+rating_of	0629313267	by	Marieke	was	2
+birth_of	1264405070	to_parents	1244041598	1520738463	nodes	1243	gzip_size	1667
+birth_of	0832495651	to_parents	1244041598	1520738463	nodes	549	gzip_size	869
+birth_of	0931955578	to_parents	1965415020	1970534122	nodes	460	gzip_size	858
+birth_of	0791942113	to_parents	1965415020	1970534122	nodes	366	gzip_size	801
+birth_of	0101193773	to_parents	1842912335	1633869416	nodes	399	gzip_size	820
+birth_of	0949880699	to_parents	1842912335	1633869416	nodes	366	gzip_size	801
+birth_of	2079891266	to_parents	1244041598	1520738463	nodes	546	gzip_size	871
+birth_of	0870659479	to_parents	1244041598	1520738463	nodes	1246	gzip_size	1668
+birth_of	0301281199	to_parents	1965415020	1970534122	nodes	393	gzip_size	815
+birth_of	0613084554	to_parents	1965415020	1970534122	nodes	433	gzip_size	850
+birth_of	0942352836	to_parents	1842912335	1633869416	nodes	366	gzip_size	801
+birth_of	0018412902	to_parents	1842912335	1633869416	nodes	399	gzip_size	820
+death_of	0534086084
+death_of	0629313267
+death_of	1817205822
+death_of	2103050140
+death_of	1764143196
+death_of	1244041598
+death_of	1520738463
+death_of	1965415020
+death_of	1970534122
+death_of	1842912335
+death_of	1633869416
+best is kept	0986760119
+rating_of	1383001196	by	Marieke	was	3
+rating_of	0613084554	by	Marieke	was	5
+rating_of	0942352836	by	Marieke	was	6
+rating_of	0301281199	by	Marieke	was	6
+rating_of	0949880699	by	Marieke	was	6
+rating_of	0791942113	by	Marieke	was	5
+rating_of	0101193773	by	Marieke	was	5
+rating_of	0832495651	by	Marieke	was	4
+rating_of	0931955578	by	Marieke	was	5
+rating_of	0018412902	by	Marieke	was	4
+birth_of	1585912783	to_parents	0942352836	0301281199	nodes	315	gzip_size	733
+birth_of	0678515595	to_parents	0942352836	0301281199	nodes	444	gzip_size	801
+birth_of	1266528625	to_parents	0949880699	0613084554	nodes	433	gzip_size	850
+birth_of	0277536920	to_parents	0949880699	0613084554	nodes	366	gzip_size	801
+birth_of	1475768187	to_parents	0791942113	0931955578	nodes	460	gzip_size	858
+birth_of	1795592111	to_parents	0791942113	0931955578	nodes	366	gzip_size	801
+birth_of	0174741824	to_parents	0942352836	0301281199	nodes	393	gzip_size	815
+birth_of	0184128300	to_parents	0942352836	0301281199	nodes	366	gzip_size	801
+birth_of	0813860195	to_parents	0949880699	0613084554	nodes	433	gzip_size	850
+birth_of	1924003162	to_parents	0949880699	0613084554	nodes	366	gzip_size	801
+birth_of	1401571351	to_parents	0791942113	0931955578	nodes	460	gzip_size	858
+birth_of	0192344670	to_parents	0791942113	0931955578	nodes	366	gzip_size	801
+death_of	0018412902
+death_of	0832495651
+death_of	0986760119
+death_of	1383001196
+death_of	0873573761
+death_of	0942352836
+death_of	0301281199
+death_of	0949880699
+death_of	0613084554
+death_of	0791942113
+death_of	0931955578
+best is kept	0101193773
+rating_of	2079891266	by	Marieke	was	5
+rating_of	1924003162	by	Marieke	was	3
+rating_of	0174741824	by	Marieke	was	3
+audio_for	0184128300	is	results/saved/1397736803.mp3
+rating_of	0184128300	by	Marieke	was	5
+rating_of	0813860195	by	Marieke	was	4
+diversity	837.50	179.35
+rating_of	1401571351	by	Marieke	was	3
+rating_of	1266528625	by	Marieke	was	5
+rating_of	0277536920	by	Marieke	was	5
+rating_of	1795592111	by	Marieke	was	5
+rating_of	0192344670	by	Marieke	was	4
+rating_of	0678515595	by	Marieke	was	4
+birth_of	1785463567	to_parents	1795592111	0101193773	nodes	399	gzip_size	820
+birth_of	1671403537	to_parents	1795592111	0101193773	nodes	366	gzip_size	801
+birth_of	1732484992	to_parents	0184128300	2079891266	nodes	442	gzip_size	834
+birth_of	0177096619	to_parents	0184128300	2079891266	nodes	470	gzip_size	832
+birth_of	0229195108	to_parents	0277536920	1266528625	nodes	433	gzip_size	850
+birth_of	2035583759	to_parents	0277536920	1266528625	nodes	366	gzip_size	801
+birth_of	2061280426	to_parents	1795592111	0101193773	nodes	399	gzip_size	820
+birth_of	1893203061	to_parents	1795592111	0101193773	nodes	366	gzip_size	801
+birth_of	1788832221	to_parents	0184128300	2079891266	nodes	546	gzip_size	872
+birth_of	1611254409	to_parents	0184128300	2079891266	nodes	366	gzip_size	801
+birth_of	0306232343	to_parents	0277536920	1266528625	nodes	433	gzip_size	850
+birth_of	0792982969	to_parents	0277536920	1266528625	nodes	366	gzip_size	801
+death_of	0192344670
+death_of	0813860195
+death_of	1924003162
+death_of	1401571351
+death_of	0174741824
+death_of	1795592111
+death_of	0101193773
+death_of	0184128300
+death_of	2079891266
+death_of	0277536920
+death_of	1266528625
+best is kept	0678515595
+rating_of	1475768187	by	Marieke	was	5
+rating_of	0177096619	by	Balthazar	was	5
+rating_of	2035583759	by	Balthazar	was	4
+rating_of	1788832221	by	Balthazar	was	5
+rating_of	1732484992	by	Balthazar	was	3
+rating_of	0229195108	by	Balthazar	was	4
+diversity	837.20	182.00
+audio_for	1893203061	is	results/saved/1397914201.mp3
+rating_of	1893203061	by	Balthazar	was	4
+rating_of	0792982969	by	Balthazar	was	3
+rating_of	0306232343	by	Balthazar	was	1
+rating_of	2061280426	by	Balthazar	was	2
+rating_of	1671403537	by	Balthazar	was	1
+rating_of	1611254409	by	Balthazar	was	2
+birth_of	0504341097	to_parents	0177096619	1788832221	nodes	546	gzip_size	872
+birth_of	1512336138	to_parents	0177096619	1788832221	nodes	470	gzip_size	831
+birth_of	2109041994	to_parents	2035583759	0229195108	nodes	366	gzip_size	801
+birth_of	1959249893	to_parents	2035583759	0229195108	nodes	433	gzip_size	853
+birth_of	1716091050	to_parents	0678515595	1893203061	nodes	468	gzip_size	806
+birth_of	1167158902	to_parents	0678515595	1893203061	nodes	342	gzip_size	774
+birth_of	1987119495	to_parents	0177096619	1788832221	nodes	603	gzip_size	852
+birth_of	1571138170	to_parents	0177096619	1788832221	nodes	413	gzip_size	805
+birth_of	0614205451	to_parents	2035583759	0229195108	nodes	372	gzip_size	805
+birth_of	0352742514	to_parents	2035583759	0229195108	nodes	427	gzip_size	845
+birth_of	1520078966	to_parents	0678515595	1893203061	nodes	366	gzip_size	801
+birth_of	1318832492	to_parents	0678515595	1893203061	nodes	444	gzip_size	801
+death_of	0792982969
+death_of	2061280426
+death_of	1611254409
+death_of	0306232343
+death_of	1671403537
+death_of	0177096619
+death_of	1788832221
+death_of	2035583759
+death_of	0229195108
+death_of	0678515595
+death_of	1893203061
+best is kept	1732484992
+rating_of	1016134382	by	Balthazar	was	1
+diversity	834.40	185.40
+rating_of	0352742514	by	Balthazar	was	1
+rating_of	1987119495	by	Balthazar	was	4
+rating_of	0614205451	by	Balthazar	was	2
+diversity	834.40	185.40
+rating_of	1571138170	by	Balthazar	was	5
+audio_for	1318832492	is	results/saved/1398162086.mp3
+rating_of	1318832492	by	Marieke	was	4
+rating_of	1512336138	by	Marieke	was	5
+rating_of	1716091050	by	Marieke	was	4
+rating_of	2109041994	by	Marieke	was	6
+rating_of	1167158902	by	Marieke	was	3
+rating_of	1520078966	by	Marieke	was	3
+rating_of	1959249893	by	Marieke	was	2
+birth_of	1272649840	to_parents	1475768187	1512336138	nodes	470	gzip_size	831
+birth_of	1452115426	to_parents	1475768187	1512336138	nodes	460	gzip_size	858
+birth_of	1173912768	to_parents	1571138170	1987119495	nodes	549	gzip_size	857
+birth_of	0942416563	to_parents	1571138170	1987119495	nodes	467	gzip_size	814
+birth_of	0118533711	to_parents	1716091050	1318832492	nodes	444	gzip_size	801
+birth_of	0362396927	to_parents	1716091050	1318832492	nodes	468	gzip_size	810
+birth_of	0162061486	to_parents	1475768187	1512336138	nodes	470	gzip_size	831
+birth_of	1567820213	to_parents	1475768187	1512336138	nodes	460	gzip_size	858
+birth_of	0003605077	to_parents	1571138170	1987119495	nodes	410	gzip_size	802
+birth_of	1874716464	to_parents	1571138170	1987119495	nodes	606	gzip_size	850
+birth_of	0395675060	to_parents	1716091050	1318832492	nodes	444	gzip_size	801
+birth_of	1663296068	to_parents	1716091050	1318832492	nodes	468	gzip_size	806
+death_of	1732484992
+death_of	1520078966
+death_of	0614205451
+death_of	1959249893
+death_of	1016134382
+death_of	1475768187
+death_of	1512336138
+death_of	1571138170
+death_of	1987119495
+death_of	1716091050
+death_of	1318832492
+best is kept	1167158902
+rating_of	0870659479	by	Marieke	was	7
+diversity	842.80	184.80
+rating_of	1874716464	by	Marieke	was	5
+diversity	842.80	184.80
+rating_of	0942416563	by	Marieke	was	2
+diversity	842.80	184.80
+rating_of	0003605077	by	Marieke	was	2
+rating_of	1452115426	by	Marieke	was	3
+diversity	842.80	184.80
+rating_of	1663296068	by	Marieke	was	4
+rating_of	1567820213	by	Marieke	was	3
+rating_of	0395675060	by	Marieke	was	2
+rating_of	1173912768	by	Marieke	was	3
+rating_of	0162061486	by	Marieke	was	2
+birth_of	0032912825	to_parents	0870659479	2109041994	nodes	1209	gzip_size	1640
+birth_of	0790031307	to_parents	0870659479	2109041994	nodes	403	gzip_size	829
+birth_of	0090615929	to_parents	1874716464	1663296068	nodes	500	gzip_size	792
+birth_of	1126826718	to_parents	1874716464	1663296068	nodes	574	gzip_size	825
+birth_of	0491399713	to_parents	1173912768	1567820213	nodes	460	gzip_size	858
+birth_of	0561280198	to_parents	1173912768	1567820213	nodes	549	gzip_size	857
+birth_of	0173613031	to_parents	0870659479	2109041994	nodes	1234	gzip_size	1664
+birth_of	2005906682	to_parents	0870659479	2109041994	nodes	378	gzip_size	809
+birth_of	1647659907	to_parents	1874716464	1663296068	nodes	611	gzip_size	846
+birth_of	1309993760	to_parents	1874716464	1663296068	nodes	463	gzip_size	807
+birth_of	1908906925	to_parents	1173912768	1567820213	nodes	552	gzip_size	868
+birth_of	0270073526	to_parents	1173912768	1567820213	nodes	457	gzip_size	851
+death_of	1452115426
+death_of	0003605077
+death_of	0395675060
+death_of	0942416563
+death_of	0162061486
+death_of	0870659479
+death_of	2109041994
+death_of	1874716464
+death_of	1663296068
+death_of	1173912768
+death_of	1567820213
+best is kept	1167158902
+rating_of	0118533711	by	Marieke	was	3
+rating_of	1647659907	by	Marieke	was	4
+rating_of	0491399713	by	Marieke	was	4
+rating_of	0090615929	by	Marieke	was	4
+rating_of	0790031307	by	Marieke	was	4
+audio_for	1309993760	is	results/saved/1398321639.mp3
+rating_of	1309993760	by	Marieke	was	4
+rating_of	0270073526	by	Marieke	was	2
+rating_of	1126826718	by	Marieke	was	3
+rating_of	1908906925	by	Marieke	was	2
+rating_of	0561280198	by	Marieke	was	2
+birth_of	1676137943	to_parents	1647659907	0090615929	nodes	500	gzip_size	792
+birth_of	1999245930	to_parents	1647659907	0090615929	nodes	611	gzip_size	846
+birth_of	1305443534	to_parents	0790031307	0491399713	nodes	392	gzip_size	822
+birth_of	0869995704	to_parents	0790031307	0491399713	nodes	471	gzip_size	830
+birth_of	0037020395	to_parents	1309993760	0118533711	nodes	406	gzip_size	746
+birth_of	0071526755	to_parents	1309993760	0118533711	nodes	501	gzip_size	784
+birth_of	1616178038	to_parents	1647659907	0090615929	nodes	611	gzip_size	849
+birth_of	2120097783	to_parents	1647659907	0090615929	nodes	500	gzip_size	790
+birth_of	0133852615	to_parents	0790031307	0491399713	nodes	409	gzip_size	836
+birth_of	1045767633	to_parents	0790031307	0491399713	nodes	454	gzip_size	855
+birth_of	0154794833	to_parents	1309993760	0118533711	nodes	444	gzip_size	801
+birth_of	1700831260	to_parents	1309993760	0118533711	nodes	463	gzip_size	807
+death_of	1167158902
+death_of	0270073526
+death_of	1908906925
+death_of	0352742514
+death_of	2005906682
+death_of	1647659907
+death_of	0090615929
+death_of	0790031307
+death_of	0491399713
+death_of	1309993760
+death_of	0118533711
+best is kept	1126826718
+rating_of	0362396927	by	Marieke	was	4
+rating_of	1616178038	by	Marieke	was	4
+rating_of	1045767633	by	Marieke	was	3
+rating_of	2120097783	by	Marieke	was	5
+rating_of	0133852615	by	Marieke	was	5
+rating_of	0037020395	by	Marieke	was	2
+rating_of	0154794833	by	Marieke	was	3
+rating_of	1305443534	by	Marieke	was	5
+rating_of	0071526755	by	Marieke	was	2
+rating_of	1999245930	by	Marieke	was	4
+rating_of	0869995704	by	Marieke	was	4
+birth_of	0922093941	to_parents	1305443534	2120097783	nodes	500	gzip_size	790
+birth_of	1164885422	to_parents	1305443534	2120097783	nodes	392	gzip_size	822
+birth_of	1108680728	to_parents	0869995704	1999245930	nodes	447	gzip_size	821
+birth_of	2099612678	to_parents	0869995704	1999245930	nodes	635	gzip_size	868
+birth_of	1694121049	to_parents	0362396927	1616178038	nodes	611	gzip_size	849
+birth_of	1527450068	to_parents	0362396927	1616178038	nodes	468	gzip_size	810
+birth_of	1450571793	to_parents	1305443534	2120097783	nodes	500	gzip_size	790
+birth_of	1853741679	to_parents	1305443534	2120097783	nodes	392	gzip_size	822
+birth_of	0141233932	to_parents	0869995704	1999245930	nodes	571	gzip_size	810
+birth_of	1739401256	to_parents	0869995704	1999245930	nodes	511	gzip_size	823
+birth_of	1746239229	to_parents	0362396927	1616178038	nodes	611	gzip_size	849
+birth_of	1966852125	to_parents	0362396927	1616178038	nodes	468	gzip_size	810
+death_of	1045767633
+death_of	1126826718
+death_of	0561280198
+death_of	0037020395
+death_of	0071526755
+death_of	1305443534
+death_of	2120097783
+death_of	0869995704
+death_of	1999245930
+death_of	0362396927
+death_of	1616178038
+best is kept	0154794833
+rating_of	1966852125	by	Rinske	was	5
+rating_of	1164885422	by	Rinske	was	6
+rating_of	1853741679	by	Rinske	was	5
+rating_of	1694121049	by	Rinske	was	2
+rating_of	1450571793	by	Rinske	was	3
+rating_of	1108680728	by	Rinske	was	4
+rating_of	1527450068	by	Rinske	was	4
+rating_of	1739401256	by	Rinske	was	5
+rating_of	0141233932	by	Rinske	was	4
+audio_for	2099612678	is	results/saved/1398945457.mp3
+rating_of	2099612678	by	Rinske	was	5
+birth_of	1121690958	to_parents	1164885422	1739401256	nodes	398	gzip_size	821
+birth_of	0781782100	to_parents	1164885422	1739401256	nodes	505	gzip_size	835
+birth_of	0392879728	to_parents	0133852615	1966852125	nodes	468	gzip_size	810
+birth_of	0001139198	to_parents	0133852615	1966852125	nodes	409	gzip_size	836
+birth_of	0843233734	to_parents	1853741679	2099612678	nodes	635	gzip_size	868
+birth_of	0877298909	to_parents	1853741679	2099612678	nodes	392	gzip_size	822
+birth_of	0782156401	to_parents	1164885422	1739401256	nodes	511	gzip_size	823
+birth_of	0045631124	to_parents	1164885422	1739401256	nodes	392	gzip_size	822
+birth_of	0684840231	to_parents	0133852615	1966852125	nodes	468	gzip_size	810
+birth_of	1582302817	to_parents	0133852615	1966852125	nodes	409	gzip_size	836
+birth_of	1009844078	to_parents	1853741679	2099612678	nodes	635	gzip_size	868
+birth_of	0391325019	to_parents	1853741679	2099612678	nodes	392	gzip_size	822
+death_of	0141233932
+death_of	1108680728
+death_of	0154794833
+death_of	1450571793
+death_of	1694121049
+death_of	1164885422
+death_of	1739401256
+death_of	0133852615
+death_of	1966852125
+death_of	1853741679
+death_of	2099612678
+best is kept	1527450068
+rating_of	1582302817	by	Rinske	was	5
+rating_of	0782156401	by	Rinske	was	4
+rating_of	1009844078	by	sofieweijkamp	was	3
+diversity	848.10	182.00
+rating_of	0684840231	by	sofieweijkamp	was	3
+rating_of	0877298909	by	sofieweijkamp	was	4
+rating_of	0001139198	by	sofieweijkamp	was	4
+rating_of	0843233734	by	sofieweijkamp	was	4
+rating_of	0392879728	by	sofieweijkamp	was	3
+rating_of	0045631124	by	sofieweijkamp	was	3
+rating_of	0781782100	by	sofieweijkamp	was	2
+rating_of	0391325019	by	sofieweijkamp	was	3
+rating_of	1700831260	by	sofieweijkamp	was	2
+birth_of	1525425134	to_parents	1582302817	0877298909	nodes	392	gzip_size	822
+birth_of	1555240963	to_parents	1582302817	0877298909	nodes	409	gzip_size	837
+birth_of	1252728635	to_parents	1527450068	0843233734	nodes	635	gzip_size	868
+birth_of	0058686601	to_parents	1527450068	0843233734	nodes	468	gzip_size	810
+birth_of	1230526066	to_parents	0001139198	0782156401	nodes	409	gzip_size	835
+birth_of	0918160869	to_parents	0001139198	0782156401	nodes	511	gzip_size	822
+birth_of	0161497242	to_parents	1582302817	0877298909	nodes	392	gzip_size	822
+birth_of	1470806940	to_parents	1582302817	0877298909	nodes	409	gzip_size	836
+birth_of	0330107986	to_parents	1527450068	0843233734	nodes	465	gzip_size	810
+birth_of	2019505258	to_parents	1527450068	0843233734	nodes	638	gzip_size	866
+birth_of	0154740414	to_parents	0001139198	0782156401	nodes	511	gzip_size	823
+birth_of	1051058983	to_parents	0001139198	0782156401	nodes	409	gzip_size	836
+death_of	0045631124
+death_of	1009844078
+death_of	0392879728
+death_of	1700831260
+death_of	0781782100
+death_of	1582302817
+death_of	0877298909
+death_of	1527450068
+death_of	0843233734
+death_of	0001139198
+death_of	0782156401
+best is kept	0391325019
+rating_of	1746239229	by	sofieweijkamp	was	2
+rating_of	0161497242	by	sofieweijkamp	was	4
+rating_of	1051058983	by	sofieweijkamp	was	4
+rating_of	1252728635	by	sofieweijkamp	was	2
+rating_of	1470806940	by	sofieweijkamp	was	4
+diversity	849.50	182.10
+rating_of	0154740414	by	sofieweijkamp	was	2
+rating_of	2019505258	by	sofieweijkamp	was	2
+rating_of	0058686601	by	sofieweijkamp	was	1
+rating_of	0330107986	by	sofieweijkamp	was	1
+rating_of	1555240963	by	sofieweijkamp	was	3
+rating_of	0918160869	by	sofieweijkamp	was	2
+rating_of	1230526066	by	sofieweijkamp	was	3
+birth_of	1641209798	to_parents	1051058983	0161497242	nodes	392	gzip_size	822
+birth_of	0476618320	to_parents	1051058983	0161497242	nodes	409	gzip_size	836
+birth_of	1352350829	to_parents	0684840231	1555240963	nodes	363	gzip_size	778
+birth_of	1026506349	to_parents	0684840231	1555240963	nodes	514	gzip_size	806
+birth_of	1189975754	to_parents	0391325019	1230526066	nodes	401	gzip_size	789
+birth_of	0408824496	to_parents	0391325019	1230526066	nodes	400	gzip_size	826
+birth_of	0421962788	to_parents	1051058983	0161497242	nodes	392	gzip_size	822
+birth_of	0431347068	to_parents	1051058983	0161497242	nodes	409	gzip_size	836
+birth_of	0142769360	to_parents	0684840231	1555240963	nodes	399	gzip_size	783
+birth_of	1578933751	to_parents	0684840231	1555240963	nodes	478	gzip_size	856
+birth_of	0268736047	to_parents	0391325019	1230526066	nodes	409	gzip_size	835
+birth_of	0298558290	to_parents	0391325019	1230526066	nodes	392	gzip_size	822
+death_of	0154740414
+death_of	2019505258
+death_of	1746239229
+death_of	0918160869
+death_of	0330107986
+death_of	1051058983
+death_of	0161497242
+death_of	0684840231
+death_of	1555240963
+death_of	0391325019
+death_of	1230526066
+best is kept	1252728635
+rating_of	0173613031	by	sofieweijkamp	was	4
+rating_of	0431347068	by	sofieweijkamp	was	2
+rating_of	0421962788	by	sofieweijkamp	was	2
+rating_of	0142769360	by	sofieweijkamp	was	2
+rating_of	0476618320	by	sofieweijkamp	was	3
+rating_of	1352350829	by	sofieweijkamp	was	2
+rating_of	0408824496	by	sofieweijkamp	was	4
+rating_of	1578933751	by	sofieweijkamp	was	2
+rating_of	1189975754	by	sofieweijkamp	was	3
+rating_of	0268736047	by	sofieweijkamp	was	4
+birth_of	1077404114	to_parents	0268736047	1470806940	nodes	409	gzip_size	836
+birth_of	0323257582	to_parents	0268736047	1470806940	nodes	409	gzip_size	835
+birth_of	0401298287	to_parents	0408824496	0173613031	nodes	408	gzip_size	836
+birth_of	0442895917	to_parents	0408824496	0173613031	nodes	1226	gzip_size	1647
+birth_of	0543205074	to_parents	1189975754	0142769360	nodes	399	gzip_size	783
+birth_of	0178317933	to_parents	1189975754	0142769360	nodes	401	gzip_size	789
+birth_of	1892381232	to_parents	0268736047	1470806940	nodes	409	gzip_size	836
+birth_of	1630679103	to_parents	0268736047	1470806940	nodes	409	gzip_size	834
+birth_of	1582621572	to_parents	0408824496	0173613031	nodes	1234	gzip_size	1663
+birth_of	0075977702	to_parents	0408824496	0173613031	nodes	400	gzip_size	826
+birth_of	0927021219	to_parents	1189975754	0142769360	nodes	414	gzip_size	793
+birth_of	1525440791	to_parents	1189975754	0142769360	nodes	386	gzip_size	798
+death_of	1252728635
+death_of	0421962788
+death_of	1578933751
+death_of	1352350829
+death_of	0058686601
+death_of	0268736047
+death_of	1470806940
+death_of	0408824496
+death_of	0173613031
+death_of	1189975754
+death_of	0142769360
+best is kept	0431347068
+audio_for	0298558290	is	results/saved/1398970697.mp3
+rating_of	0298558290	by	sofieweijkamp	was	4
+rating_of	1026506349	by	sofieweijkamp	was	4
+diversity	881.00	180.45
+rating_of	0401298287	by	sofieweijkamp	was	4
+rating_of	0323257582	by	sofieweijkamp	was	5
+rating_of	1525440791	by	sofieweijkamp	was	2
+rating_of	1630679103	by	sofieweijkamp	was	4
+rating_of	0543205074	by	sofieweijkamp	was	2
+rating_of	0178317933	by	sofieweijkamp	was	3
+rating_of	1582621572	by	sofieweijkamp	was	1
+rating_of	0442895917	by	sofieweijkamp	was	2
+rating_of	0927021219	by	sofieweijkamp	was	3
+birth_of	0401708488	to_parents	0323257582	0401298287	nodes	408	gzip_size	836
+birth_of	0317586970	to_parents	0323257582	0401298287	nodes	409	gzip_size	835
+birth_of	0282777994	to_parents	1026506349	0298558290	nodes	392	gzip_size	822
+birth_of	0264335392	to_parents	1026506349	0298558290	nodes	514	gzip_size	806
+birth_of	1618615448	to_parents	0178317933	0927021219	nodes	397	gzip_size	765
+birth_of	1893854752	to_parents	0178317933	0927021219	nodes	418	gzip_size	796
+birth_of	1298685099	to_parents	0323257582	0401298287	nodes	408	gzip_size	836
+birth_of	0777187000	to_parents	0323257582	0401298287	nodes	409	gzip_size	835
+birth_of	0974146316	to_parents	1026506349	0298558290	nodes	498	gzip_size	821
+birth_of	0061524886	to_parents	1026506349	0298558290	nodes	408	gzip_size	809
+birth_of	0541029551	to_parents	0178317933	0927021219	nodes	414	gzip_size	793
+birth_of	0592073338	to_parents	0178317933	0927021219	nodes	401	gzip_size	789
+death_of	0543205074
+death_of	0431347068
+death_of	1525440791
+death_of	0442895917
+death_of	1582621572
+death_of	0323257582
+death_of	0401298287
+death_of	1026506349
+death_of	0298558290
+death_of	0178317933
+death_of	0927021219
+best is kept	0476618320
+rating_of	1892381232	by	sofieweijkamp	was	3
+audio_for	0282777994	is	results/saved/1398970790.mp3
+rating_of	0282777994	by	sofieweijkamp	was	3
+rating_of	0777187000	by	sofieweijkamp	was	4
+rating_of	1298685099	by	sofieweijkamp	was	4
+rating_of	0264335392	by	sofieweijkamp	was	2
+diversity	795.95	131.85
+rating_of	0317586970	by	sofieweijkamp	was	3
+audio_for	0541029551	is	results/saved/1398970829.mp3
+rating_of	0541029551	by	sofieweijkamp	was	3
+diversity	795.95	131.85
+rating_of	1893854752	by	sofieweijkamp	was	4
+rating_of	1618615448	by	sofieweijkamp	was	4
+audio_for	0592073338	is	results/saved/1398970852.mp3
+rating_of	0592073338	by	sofieweijkamp	was	4
+rating_of	0061524886	by	sofieweijkamp	was	2
+rating_of	0974146316	by	sofieweijkamp	was	2
+birth_of	1638169568	to_parents	1298685099	0777187000	nodes	409	gzip_size	835
+birth_of	0844484706	to_parents	1298685099	0777187000	nodes	408	gzip_size	836
+birth_of	1735815049	to_parents	1630679103	1618615448	nodes	406	gzip_size	833
+birth_of	0299202521	to_parents	1630679103	1618615448	nodes	400	gzip_size	768
+birth_of	0123328990	to_parents	0592073338	0317586970	nodes	406	gzip_size	769
+birth_of	0871707398	to_parents	0592073338	0317586970	nodes	404	gzip_size	810
+birth_of	0933259588	to_parents	1298685099	0777187000	nodes	409	gzip_size	835
+birth_of	1653390696	to_parents	1298685099	0777187000	nodes	408	gzip_size	836
+birth_of	1776386595	to_parents	1630679103	1618615448	nodes	412	gzip_size	821
+birth_of	1017385771	to_parents	1630679103	1618615448	nodes	394	gzip_size	782
+birth_of	0462454259	to_parents	0592073338	0317586970	nodes	409	gzip_size	835
+birth_of	1355465963	to_parents	0592073338	0317586970	nodes	401	gzip_size	789
+death_of	0282777994
+death_of	0476618320
+death_of	0264335392
+death_of	0061524886
+death_of	0974146316
+death_of	1298685099
+death_of	0777187000
+death_of	1630679103
+death_of	1618615448
+death_of	0592073338
+death_of	0317586970
+best is kept	0541029551
+rating_of	0075977702	by	sofieweijkamp	was	2
+rating_of	0844484706	by	sofieweijkamp	was	3
+rating_of	1653390696	by	sofieweijkamp	was	3
+rating_of	0933259588	by	sofieweijkamp	was	3
+rating_of	0299202521	by	sofieweijkamp	was	4
+rating_of	1776386595	by	sofieweijkamp	was	4
+rating_of	1735815049	by	sofieweijkamp	was	3
+rating_of	1355465963	by	sofieweijkamp	was	4
+rating_of	1017385771	by	sofieweijkamp	was	3
+rating_of	0462454259	by	sofieweijkamp	was	4
+birth_of	0450938525	to_parents	0462454259	1893854752	nodes	330	gzip_size	716
+birth_of	1524360687	to_parents	0462454259	1893854752	nodes	497	gzip_size	831
+birth_of	2075580865	to_parents	1776386595	1355465963	nodes	409	gzip_size	820
+birth_of	0208859651	to_parents	1776386595	1355465963	nodes	404	gzip_size	792
+birth_of	1183923339	to_parents	1017385771	0541029551	nodes	414	gzip_size	793
+birth_of	0962021009	to_parents	1017385771	0541029551	nodes	394	gzip_size	782
+birth_of	1868850052	to_parents	0462454259	1893854752	nodes	418	gzip_size	796
+birth_of	1950711631	to_parents	0462454259	1893854752	nodes	409	gzip_size	833
+birth_of	1178066010	to_parents	1776386595	1355465963	nodes	401	gzip_size	789
+birth_of	0742815849	to_parents	1776386595	1355465963	nodes	412	gzip_size	821
+birth_of	0618312191	to_parents	1017385771	0541029551	nodes	414	gzip_size	793
+birth_of	1451255726	to_parents	1017385771	0541029551	nodes	394	gzip_size	782
+death_of	1653390696
+death_of	1735815049
+death_of	1892381232
+death_of	0933259588
+death_of	0075977702
+death_of	0462454259
+death_of	1893854752
+death_of	1776386595
+death_of	1355465963
+death_of	1017385771
+death_of	0541029551
+best is kept	0844484706
+rating_of	0123328990	by	sofieweijkamp	was	4
+rating_of	1183923339	by	sofieweijkamp	was	3
+rating_of	1524360687	by	sofieweijkamp	was	1
+rating_of	1178066010	by	sofieweijkamp	was	2
+rating_of	2075580865	by	sofieweijkamp	was	4
+diversity	784.75	133.25
+rating_of	0742815849	by	wiezzie	was	3
+rating_of	1451255726	by	wiezzie	was	2
+rating_of	1950711631	by	wiezzie	was	4
+rating_of	0618312191	by	wiezzie	was	4
+rating_of	1868850052	by	wiezzie	was	3
+rating_of	0208859651	by	wiezzie	was	3
+birth_of	0734504100	to_parents	0618312191	0123328990	nodes	406	gzip_size	769
+birth_of	1981191867	to_parents	0618312191	0123328990	nodes	414	gzip_size	793
+birth_of	1022255112	to_parents	0299202521	2075580865	nodes	409	gzip_size	820
+birth_of	1043551878	to_parents	0299202521	2075580865	nodes	400	gzip_size	768
+birth_of	1122839033	to_parents	0742815849	0208859651	nodes	404	gzip_size	792
+birth_of	1177486030	to_parents	0742815849	0208859651	nodes	412	gzip_size	821
+birth_of	0177936020	to_parents	0618312191	0123328990	nodes	406	gzip_size	769
+birth_of	0956880377	to_parents	0618312191	0123328990	nodes	414	gzip_size	793
+birth_of	2044718849	to_parents	0299202521	2075580865	nodes	409	gzip_size	820
+birth_of	1050621883	to_parents	0299202521	2075580865	nodes	400	gzip_size	768
+birth_of	0849149008	to_parents	0742815849	0208859651	nodes	409	gzip_size	820
+birth_of	0573346043	to_parents	0742815849	0208859651	nodes	407	gzip_size	794
+death_of	1868850052
+death_of	0844484706
+death_of	1451255726
+death_of	1178066010
+death_of	1524360687
+death_of	0618312191
+death_of	0123328990
+death_of	0299202521
+death_of	2075580865
+death_of	0742815849
+death_of	0208859651
+best is kept	1183923339
+rating_of	1022255112	by	masquiminus	was	4
+rating_of	1177486030	by	masquiminus	was	4
+rating_of	2044718849	by	masquiminus	was	3
+rating_of	1122839033	by	masquiminus	was	5
+audio_for	1050621883	is	results/saved/1399234584.mp3
+rating_of	1050621883	by	masquiminus	was	3
+rating_of	0849149008	by	masquiminus	was	4
+diversity	782.80	128.30
+audio_for	1043551878	is	results/saved/1399234603.mp3
+rating_of	1043551878	by	masquiminus	was	3
+rating_of	0177936020	by	masquiminus	was	5
+rating_of	1981191867	by	masquiminus	was	5
+rating_of	0573346043	by	masquiminus	was	4
+diversity	782.80	128.30
+audio_for	0956880377	is	results/saved/1399234644.mp3
+rating_of	0956880377	by	masquiminus	was	4
+diversity	782.80	128.30
+birth_of	0366242930	to_parents	0177936020	1122839033	nodes	404	gzip_size	792
+birth_of	0285693498	to_parents	0177936020	1122839033	nodes	406	gzip_size	769
+birth_of	1972844064	to_parents	1022255112	0956880377	nodes	414	gzip_size	793
+birth_of	0207870543	to_parents	1022255112	0956880377	nodes	409	gzip_size	820
+birth_of	0729384658	to_parents	1177486030	1950711631	nodes	412	gzip_size	821
+birth_of	2110783413	to_parents	1177486030	1950711631	nodes	409	gzip_size	833
+birth_of	1068283016	to_parents	0177936020	1122839033	nodes	413	gzip_size	773
+birth_of	0430045976	to_parents	0177936020	1122839033	nodes	397	gzip_size	768
+birth_of	1831503989	to_parents	1022255112	0956880377	nodes	409	gzip_size	819
+birth_of	0141189083	to_parents	1022255112	0956880377	nodes	414	gzip_size	795
+birth_of	0575989922	to_parents	1177486030	1950711631	nodes	409	gzip_size	833
+birth_of	1395292037	to_parents	1177486030	1950711631	nodes	412	gzip_size	821
+death_of	0573346043
+death_of	1043551878
+death_of	1050621883
+death_of	1183923339
+death_of	2044718849
+death_of	0177936020
+death_of	1122839033
+death_of	1022255112
+death_of	0956880377
+death_of	1177486030
+death_of	1950711631
+best is kept	0849149008
+rating_of	0871707398	by	masquiminus	was	6
+rating_of	1831503989	by	Marieke	was	4
+rating_of	0575989922	by	Marieke	was	4
+rating_of	0729384658	by	Marieke	was	4
+diversity	786.50	129.05
+rating_of	2110783413	by	Marieke	was	4
+rating_of	0430045976	by	Marieke	was	5
+rating_of	0207870543	by	Marieke	was	4
+rating_of	1972844064	by	Marieke	was	5
+rating_of	1395292037	by	Marieke	was	4
+rating_of	1068283016	by	Marieke	was	5
+rating_of	0285693498	by	Marieke	was	4
+birth_of	1483918301	to_parents	0871707398	1981191867	nodes	404	gzip_size	810
+birth_of	1943829449	to_parents	0871707398	1981191867	nodes	414	gzip_size	793
+birth_of	1186145678	to_parents	0430045976	1068283016	nodes	413	gzip_size	773
+birth_of	1828283374	to_parents	0430045976	1068283016	nodes	397	gzip_size	768
+birth_of	2081502630	to_parents	1972844064	1395292037	nodes	381	gzip_size	748
+birth_of	0828709577	to_parents	1972844064	1395292037	nodes	445	gzip_size	818
+birth_of	0691200904	to_parents	0871707398	1981191867	nodes	414	gzip_size	798
+birth_of	2122595938	to_parents	0871707398	1981191867	nodes	404	gzip_size	810
+birth_of	0547361913	to_parents	0430045976	1068283016	nodes	421	gzip_size	749
+birth_of	0873185643	to_parents	0430045976	1068283016	nodes	389	gzip_size	729
+birth_of	1603646576	to_parents	1972844064	1395292037	nodes	412	gzip_size	818
+birth_of	2011368271	to_parents	1972844064	1395292037	nodes	414	gzip_size	793
+death_of	1831503989
+death_of	0849149008
+death_of	0729384658
+death_of	0285693498
+death_of	0207870543
+death_of	0871707398
+death_of	1981191867
+death_of	0430045976
+death_of	1068283016
+death_of	1972844064
+death_of	1395292037
+best is kept	0575989922
+rating_of	0141189083	by	Marieke	was	5
+rating_of	1943829449	by	Marieke	was	5
+rating_of	1828283374	by	Marieke	was	6
+rating_of	0547361913	by	Marieke	was	5
+rating_of	0828709577	by	Marieke	was	5
+rating_of	1186145678	by	Marieke	was	5
+rating_of	1603646576	by	Marieke	was	3
+rating_of	2011368271	by	Marieke	was	3
+diversity	776.00	132.15
+rating_of	0873185643	by	Marieke	was	2
+diversity	776.00	132.15
+rating_of	2122595938	by	Marieke	was	5
+birth_of	1623417638	to_parents	1828283374	1186145678	nodes	413	gzip_size	773
+birth_of	1568666621	to_parents	1828283374	1186145678	nodes	397	gzip_size	768
+birth_of	1639749423	to_parents	0828709577	2122595938	nodes	404	gzip_size	810
+birth_of	0901628501	to_parents	0828709577	2122595938	nodes	445	gzip_size	818
+birth_of	1697970512	to_parents	0547361913	0141189083	nodes	450	gzip_size	752
+birth_of	0431957579	to_parents	0547361913	0141189083	nodes	385	gzip_size	762
+grow_tree	1053297839	type	POSINT
+birth_of	0095644821	to_parents	1828283374	1186145678	nodes	413	gzip_size	773
+birth_of	1053297839	to_parents	1828283374	1186145678	nodes	397	gzip_size	771
+birth_of	1179715720	to_parents	0828709577	2122595938	nodes	404	gzip_size	810
+birth_of	0384944726	to_parents	0828709577	2122595938	nodes	445	gzip_size	818
+grow_tree	1499415082	type	OVERTONES
+birth_of	1150075028	to_parents	0547361913	0141189083	nodes	414	gzip_size	795
+birth_of	1499415082	to_parents	0547361913	0141189083	nodes	451	gzip_size	819
+death_of	2110783413
+death_of	0575989922
+death_of	2011368271
+death_of	1603646576
+death_of	0873185643
+death_of	1828283374
+death_of	1186145678
+death_of	0828709577
+death_of	2122595938
+death_of	0547361913
+death_of	0141189083
+best is kept	1943829449
+rating_of	2081502630	by	Marieke	was	4
+rating_of	1639749423	by	Marieke	was	4
+audio_for	0095644821	is	results/saved/1399639482.mp3
+rating_of	0095644821	by	Marieke	was	5
+rating_of	1568666621	by	Marieke	was	2
+diversity	774.85	135.30
+rating_of	1150075028	by	Marieke	was	4
+rating_of	1179715720	by	Marieke	was	5
+rating_of	1053297839	by	Marieke	was	3
+diversity	774.85	135.30
+rating_of	1697970512	by	Marieke	was	3
+rating_of	0901628501	by	Marieke	was	5
+rating_of	0431957579	by	Marieke	was	4
+rating_of	0384944726	by	Marieke	was	5
+diversity	774.85	135.30
+birth_of	0146321578	to_parents	0384944726	1179715720	nodes	439	gzip_size	814
+birth_of	1925836755	to_parents	0384944726	1179715720	nodes	410	gzip_size	814
+birth_of	0185575877	to_parents	0901628501	0095644821	nodes	413	gzip_size	773
+birth_of	1204576027	to_parents	0901628501	0095644821	nodes	445	gzip_size	818
+birth_of	1379707936	to_parents	1943829449	0431957579	nodes	385	gzip_size	762
+birth_of	1391458891	to_parents	1943829449	0431957579	nodes	414	gzip_size	793
+birth_of	0468400920	to_parents	0384944726	1179715720	nodes	404	gzip_size	810
+birth_of	0500753944	to_parents	0384944726	1179715720	nodes	445	gzip_size	818
+birth_of	1952836416	to_parents	0901628501	0095644821	nodes	339	gzip_size	705
+birth_of	0287128005	to_parents	0901628501	0095644821	nodes	519	gzip_size	819
+birth_of	0197299914	to_parents	1943829449	0431957579	nodes	415	gzip_size	778
+birth_of	1866938411	to_parents	1943829449	0431957579	nodes	384	gzip_size	765
+death_of	2081502630
+death_of	1639749423
+death_of	1697970512
+death_of	1053297839
+death_of	1568666621
+death_of	0384944726
+death_of	1179715720
+death_of	0901628501
+death_of	0095644821
+death_of	1943829449
+death_of	0431957579
+best is kept	1150075028
+rating_of	1499415082	by	Marieke	was	4
+diversity	776.45	136.30
+rating_of	0197299914	by	Marieke	was	2
+rating_of	0185575877	by	Marieke	was	5
+rating_of	0287128005	by	Marieke	was	4
+rating_of	1391458891	by	Marieke	was	3
+rating_of	0500753944	by	Marieke	was	3
+rating_of	1379707936	by	Marieke	was	2
+rating_of	1204576027	by	Marieke	was	2
+rating_of	1952836416	by	Marieke	was	4
+rating_of	1866938411	by	Marieke	was	4
+rating_of	0468400920	by	Marieke	was	3
+rating_of	1925836755	by	Marieke	was	5
+birth_of	1993340161	to_parents	1925836755	0185575877	nodes	413	gzip_size	773
+birth_of	1997180695	to_parents	1925836755	0185575877	nodes	410	gzip_size	814
+birth_of	0055072303	to_parents	1866938411	1952836416	nodes	384	gzip_size	764
+birth_of	1244400973	to_parents	1866938411	1952836416	nodes	339	gzip_size	706
+birth_of	0003169622	to_parents	1499415082	1150075028	nodes	427	gzip_size	807
+birth_of	1511214320	to_parents	1499415082	1150075028	nodes	438	gzip_size	801
+birth_of	1862392675	to_parents	1925836755	0185575877	nodes	413	gzip_size	773
+birth_of	0906095546	to_parents	1925836755	0185575877	nodes	410	gzip_size	812
+birth_of	1269916379	to_parents	1866938411	1952836416	nodes	373	gzip_size	766
+birth_of	0408135381	to_parents	1866938411	1952836416	nodes	350	gzip_size	729
+birth_of	0661677838	to_parents	1499415082	1150075028	nodes	414	gzip_size	795
+birth_of	1160031995	to_parents	1499415082	1150075028	nodes	451	gzip_size	819
+death_of	1391458891
+death_of	0500753944
+death_of	0468400920
+death_of	0197299914
+death_of	1379707936
+death_of	1925836755
+death_of	0185575877
+death_of	1866938411
+death_of	1952836416
+death_of	1499415082
+death_of	1150075028
+best is kept	0287128005
+rating_of	0691200904	by	Marieke	was	3
+rating_of	0003169622	by	Marieke	was	3
+rating_of	0906095546	by	Marieke	was	6
+rating_of	1997180695	by	Marieke	was	5
